@@ -1,0 +1,57 @@
+Here is a highly realistic and original resume for a mid candidate in the field of data visualization:
+
+```
+{
+  "name": "Rahul Aggarwal",
+  "email": "rahul.a@datavis.com",
+  "phone": "555-1234",
+  "linkedin": "https://www.linkedin.com/in/rahulaggarwal/",
+  "summary": "Results-driven data visualization professional with 3+ years of experience in building interactive dashboards, storytelling with visual analytics, and end-to-end system development. Proficient in a range of tools including Tableau, Power BI, D3.js, and Plotly. Strong passion for leveraging data to drive business decisions.",
+  "experience": [
+    {
+      "title": "Senior Data Visualization Analyst",
+      "company": "Accenture Analytics",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and developed interactive dashboards using Tableau to showcase client insights, resulting in a 30% increase in data-driven decision making.",
+        "Collaborated with cross-functional teams to develop a proprietary data visualization platform for client onboarding, streamlining the process by 25%",
+        "Created data stories using Power BI to present findings and recommendations to senior leadership, leading to actionable changes in company strategy.",
+        "Developed a data literacy program for non-technical stakeholders, resulting in a 50% increase in self-service analytics adoption.",
+        "Worked closely with data scientists to develop machine learning models and integrate them into interactive dashboards using D3.js.",
+        "Provided training and support to junior analysts on best practices in data visualization and Tableau development.",
+        "Built a data quality dashboard using Plotly to monitor and improve data integrity, reducing errors by 15%",
+        "Participated in agile development methodologies to deliver high-quality products to clients within tight timelines."
+      ]
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "company": "Deloitte Consulting",
+      "duration": "2018-2020",
+      "details": [
+        "Developed interactive dashboards using Tableau for a Fortune 500 client, resulting in a 25% increase in sales insights and customer engagement.",
+        "Worked with cross-functional teams to design and develop a proprietary data visualization platform for client onboarding, streamlining the process by 20%",
+        "Created data stories using Power BI to present findings and recommendations to senior leadership, leading to actionable changes in company strategy."
+      ]
+    },
+    {
+      "title": "Data Visualization Intern",
+      "company": "SAS Institute",
+      "duration": "2017-2018",
+      "details": [
+        "Assisted in the development of an interactive dashboard using Tableau for a pharmaceutical client, resulting in improved business insights and decision making.",
+        "Worked closely with data scientists to develop machine learning models and integrate them into interactive dashboards using D3.js."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2017-2019"
+  },
+  "skills": ["Tableau", "Power BI", "D3.js", "Plotly", "JavaScript", "HTML/CSS"],
+  "certifications": []
+}
+```
+
+I hope this helps! Let me know if you need any further modifications.
+

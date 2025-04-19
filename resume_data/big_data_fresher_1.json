@@ -1,0 +1,42 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of big data:
+
+```
+{
+  "name": "Aarav Jain",
+  "email": "aajain@gmail.com",
+  "phone": "9876543210",
+  "linkedin": "www.linkedin.com/in/aaravjain/",
+  "summary": "Highly motivated and detail-oriented Big Data enthusiast with a strong academic background in Computer Science. Proficient in Spark, Hadoop, Hive, and Presto for batch and streaming data processing, high-volume data transformation at scale. Eager to leverage my skills to drive business insights and make a meaningful impact.",
+  "experience": [
+    {
+      "title": "Big Data Intern",
+      "company": "Data Science Lab, IIT Delhi",
+      "duration": "June 2022 - August 2022",
+      "details": [
+        "Worked on a project involving data processing and analysis using Spark and Hadoop to identify trends in customer purchasing behavior.",
+        "Developed a scalable data pipeline using Presto to process large datasets for business intelligence insights.",
+        "Collaborated with a team of 5 members to design and implement a data visualization dashboard using Tableau."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "Indian Institute of Technology Delhi",
+    "year": "2022"
+  },
+  "skills": [
+    "Spark",
+    "Hadoop",
+    "Hive",
+    "Presto",
+    "Python",
+    "Java"
+  ],
+  "certifications": [
+    "Certified Data Analyst (CDA) - Data Science Council of America"
+  ]
+}
+```
+
+Please note that this is a fictional resume, and the details should be modified according to your actual experiences and skills.
+

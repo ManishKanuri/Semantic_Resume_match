@@ -1,0 +1,54 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of financial analytics:
+
+```json
+{
+  "name": "Aarav Jain",
+  "email": "a.jain@email.com",
+  "phone": "123-456-7890",
+  "linkedin": "https://www.linkedin.com/in/aaravjain/",
+  "summary": "Results-driven financial analytics professional with 3+ years of experience in credit risk modeling, fraud detection, and investment optimization. Proven track record of delivering end-to-end system builds, improving predictive accuracy by up to 25%, and enhancing process efficiency by up to 30%. Strong proficiency in Python, R, and Tableau.",
+  "experience": [
+    {
+      "title": "Senior Financial Analyst",
+      "company": "Citibank",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and developed a credit risk scoring model using TensorFlow and Python, resulting in a 20% reduction in defaults and a 15% increase in loan approvals.",
+        "Collaborated with cross-functional teams to integrate the model into existing systems, improving data quality by up to 25%",
+        "Developed dashboards using Tableau to visualize key performance indicators (KPIs) for senior management, driving data-driven decision-making.",
+        "Worked closely with business stakeholders to identify areas of improvement and implemented process changes, resulting in a 30% reduction in processing time.",
+        "Utilized R programming language to perform statistical analysis and visualization, presenting findings to executive leadership."
+      ]
+    },
+    {
+      "title": "Financial Analyst",
+      "company": "JPMorgan Chase",
+      "duration": "2018-2020",
+      "details": [
+        "Built a fraud detection model using Python and scikit-learn, achieving an accuracy of 95% and reducing false positives by 40%",
+        "Developed financial forecasts for senior management, incorporating machine learning algorithms to improve predictive accuracy by up to 15%",
+        "Worked with the data science team to integrate models into existing systems, improving data quality by up to 20%"
+      ]
+    },
+    {
+      "title": "Junior Financial Analyst",
+      "company": "Goldman Sachs",
+      "duration": "2016-2018",
+      "details": [
+        "Assisted in the development of investment optimization models using Python and pandas, resulting in a 10% increase in portfolio returns.",
+        "Conducted research on financial trends and market analysis, presenting findings to senior management."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master's in Business Administration (Finance)",
+    "institution": "University of Pennsylvania",
+    "year": "2016"
+  },
+  "skills": ["Python", "R", "Tableau", "TensorFlow", "scikit-learn", "pandas"],
+  "certifications": []
+}
+```
+
+Please note that the above resume is a fictional example and does not reflect any real individual or organization.
+

@@ -1,0 +1,54 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of data governance:
+
+```json
+{
+  "name": "Riya Jain",
+  "email": "riya.jain@datagovernancepro.com",
+  "phone": "555-1234",
+  "linkedin": "https://www.linkedin.com/in/riyajain/",
+  "summary": "Results-driven data governance professional with a strong background in data quality monitoring, lineage, metadata management, and compliance frameworks. Proficient in Great Expectations and end-to-end system building.",
+  "experience": [
+    {
+      "title": "Senior Data Governance Analyst",
+      "company": "DataCorp Inc.",
+      "duration": "2 years 9 months",
+      "details": [
+        "Designed and implemented a data quality monitoring framework using Great Expectations, resulting in a 25% reduction in data errors and a 30% increase in data freshness.",
+        "Developed and maintained metadata management dashboards using Tableau to track data lineage and provenance, enhancing transparency and trust in the data ecosystem.",
+        "Collaborated with cross-functional teams to implement data governance policies and procedures, ensuring compliance with regulatory requirements (GDPR, HIPAA) and industry standards (ISO 27001).",
+        "Mentored junior analysts on data governance best practices, improving team efficiency by 15% and reducing errors by 20%.",
+        "Worked closely with business stakeholders to understand their data needs, developing tailored data governance solutions that improved decision-making and reduced risk."
+      ]
+    },
+    {
+      "title": "Data Governance Analyst",
+      "company": "Insightful Analytics Ltd.",
+      "duration": "1 year 3 months",
+      "details": [
+        "Built and maintained a data quality dashboard using Power BI, providing real-time insights into data accuracy and completeness.",
+        "Developed and implemented a metadata management system using Apache Atlas to track data lineage and provenance.",
+        "Collaborated with the data engineering team to design and implement a data governance framework for a large-scale data integration project."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2018-2020"
+  },
+  "skills": [
+    "Great Expectations",
+    "Tableau",
+    "Power BI",
+    "Apache Atlas",
+    "Data Governance frameworks (GDPR, HIPAA)",
+    "ISO 27001",
+    "Python",
+    "SQL"
+  ],
+  "certifications": []
+}
+```
+
+Please note that the above output is in JSON format with the requested keys and fields.
+

@@ -1,0 +1,54 @@
+Here is a highly realistic and original resume for a senior data engineering candidate:
+
+```
+{
+  "name": "Raghavendra Rao",
+  "email": "rkr@gmail.com",
+  "phone": "(555) 123-4567",
+  "linkedin": "www.linkedin.com/in/rkr",
+  "summary": "Results-driven data engineering leader with 10+ years of experience in designing and delivering large-scale data pipelines, ETL development, and distributed system optimization. Proven track record of leading cross-functional teams to achieve business objectives while fostering a culture of collaboration and innovation.",
+  "experience": [
+    {
+      "title": "Vice President, Data Engineering",
+      "company": "DataGenomics Inc.",
+      "duration": "2018 - Present (4 years)",
+      "details": [
+        "Designed and implemented scalable data pipelines using Apache Beam and Airflow to process petabyte-scale datasets for a Fortune 500 client.",
+        "Led a team of 5 engineers to develop and deploy a data lake architecture using dbt, Apache Spark, and AWS Glue, resulting in 30% reduction in data processing time.",
+        "Collaborated with data science teams to develop predictive models and machine learning pipelines, driving 25% increase in revenue for the client.",
+        "Mentored junior engineers and conducted code reviews to ensure high-quality deliverables and knowledge sharing within the team.",
+        "Worked closely with stakeholders to understand business requirements and developed data engineering roadmaps to meet those needs."
+      ]
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Nexus Analytics",
+      "duration": "2015 - 2018 (3 years)",
+      "details": [
+        "Developed and maintained ETL workflows using Python, Apache Beam, and Airflow for a major retail client, processing over 100 million records daily.",
+        "Optimized data ingestion pipelines to reduce latency by 50% and increased data quality by 20% through data validation and error handling.",
+        "Collaborated with data scientists to develop machine learning models and deploy them on cloud-based platforms using AWS SageMaker and Google Cloud AI Platform."
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "DataScience Inc.",
+      "duration": "2012 - 2015 (3 years)",
+      "details": [
+        "Designed and implemented a data warehousing solution using Apache Hive, Pig, and Hadoop for a mid-sized e-commerce client.",
+        "Worked with business stakeholders to develop data requirements and designed data visualization dashboards using Tableau and Power BI."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "University of Texas at Austin",
+    "year": "2012"
+  },
+  "skills": ["ETL development", "Airflow", "Apache Beam", "dbt", "data lake pipelines", "distributed system optimization"],
+  "certifications": ["Google Cloud Certified - Professional Data Engineer"]
+}
+```
+
+Note: This is a highly realistic and original resume, but please modify it to fit your specific needs and experiences.
+

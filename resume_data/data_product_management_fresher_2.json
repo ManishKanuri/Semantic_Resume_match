@@ -1,0 +1,34 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of data product management:
+
+```
+{
+  "name": "Aarav Kumar",
+  "email": "aaruva.kumar@gmail.com",
+  "phone": "+91-9876543210",
+  "linkedin": "in.linkedin/aaravkumar99",
+  "summary": "Results-driven and curious data product management professional with a strong academic foundation in computer science. Proficient in technical product planning, data use cases, cross-functional coordination, and product lifecycle in data. Proven ability to work effectively in teams and drive projects from concept to delivery.",
+  "experience": [
+    {
+      "title": "Data Product Management Intern",
+      "company": "Nexus Analytics",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Conducted market research and analyzed customer feedback to identify high-priority product features for a data analytics platform.",
+        "Collaborated with cross-functional teams, including engineering, design, and sales, to develop a go-to-market strategy for a new data visualization tool.",
+        "Utilized Google Analytics to track user engagement metrics and inform data-driven decision-making for product optimization.",
+        "Designed and implemented A/B testing experiments using Python and the pandas library to measure the effectiveness of different UI elements."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2022"
+  },
+  "skills": ["Python", "Google Analytics", "pandas", "Microsoft Excel", "Tableau"],
+  "certifications": []
+}
+```
+
+This fresher candidate has a strong academic background and relevant internship experience in data product management. The resume highlights their technical skills, collaboration abilities, and problem-solving capabilities.
+

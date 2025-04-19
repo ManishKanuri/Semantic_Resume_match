@@ -1,0 +1,64 @@
+Here is a highly realistic and original resume for a senior candidate in the field of time series:
+
+```
+{
+  "name": "Raghavendra Rao",
+  "email": "r.rahul@gmail.com",
+  "phone": "+91-984-1234567",
+  "linkedin": "https://www.linkedin.com/in/raoraghavendra/",
+  "summary": "Highly accomplished senior leader with 10+ years of expertise in time series forecasting, architecture design, and strategic delivery. Proven track record of successfully leading cross-functional teams to deliver complex projects on time and within budget.",
+  "experience": [
+    {
+      "title": "Head of Time Series Analytics",
+      "company": "Accenture",
+      "duration": "2018-Present",
+      "details": [
+        "Designed and implemented a scalable time series forecasting framework using ARIMA, LSTM, and Prophet for a leading e-commerce client, resulting in 25% reduction in inventory costs.",
+        "Led a team of 5 data scientists and engineers to develop a real-time anomaly detection system using seasonal decomposition and trend analysis, achieving 99.9% accuracy.",
+        "Collaborated with clients to understand business requirements and developed tailored solutions for time series forecasting and anomaly detection, resulting in significant revenue growth.",
+        "Mentored junior team members on machine learning best practices and tooling (Python, R, TensorFlow), leading to improved code quality and reduced project timelines.",
+        "Worked closely with the architecture team to design a cloud-native data pipeline for processing large-scale time series datasets, ensuring scalability and fault tolerance."
+      ]
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "Wipro", 
+      "duration": "2015-2018",
+      "details": [
+        "Developed and deployed a real-time stock price prediction model using LSTM and ARIMA, achieving 90% accuracy and reducing trading costs by 15%.",
+        "Collaborated with the data engineering team to design and implement a scalable data warehousing solution for a leading retail client, resulting in 30% reduction in query response times.",
+        "Conducted research on time series forecasting techniques and presented findings at industry conferences, contributing to the advancement of knowledge in the field.",
+        "Mentored junior data scientists on machine learning best practices and tooling (Python, R), leading to improved code quality and reduced project timelines."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "TCS", 
+      "duration": "2010-2015",
+      "details": [
+        "Developed and deployed a predictive maintenance model using ARIMA and seasonal decomposition for a leading manufacturing client, resulting in 25% reduction in downtime.",
+        "Collaborated with the architecture team to design a cloud-native data processing pipeline for large-scale time series datasets, ensuring scalability and fault tolerance."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "Indian Institute of Technology (IIT) Bombay",
+    "year": "2005-2007"
+  },
+  "skills": [
+    "Time series forecasting (ARIMA, LSTM, Prophet)",
+    "Machine learning (Python, R, TensorFlow)",
+    "Data warehousing and ETL",
+    "Cloud-native data processing (AWS, GCP)",
+    "Scalable architectures for big data",
+    "Collaboration tools (JIRA, Asana)"
+  ],
+  "certifications": [
+    "Certified Data Scientist (CDS) - International Institute of Information Technology"
+  ]
+}
+```
+
+I hope this meets your requirements!
+

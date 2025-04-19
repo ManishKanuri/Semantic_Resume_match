@@ -1,0 +1,51 @@
+Here is a highly realistic and original resume for a mid candidate in the field of data governance:
+
+```json
+{
+  "name": "Raghav Kishore",
+  "email": "r.kishore@email.com",
+  "phone": "(555) 123-4567",
+  "linkedin": "https://www.linkedin.com/in/rkdata/",
+  "summary": "Results-driven data governance professional with 3 years of experience in designing, developing, and implementing scalable data quality monitoring and metadata management solutions. Skilled in Great Expectations, compliance frameworks, and collaborating with cross-functional teams to drive business outcomes.",
+  "experience": [
+    {
+      "title": "Senior Data Governance Specialist",
+      "company": "DataCue Inc.",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and implemented a data quality monitoring framework using Great Expectations, resulting in a 30% reduction in data errors and 25% increase in data accuracy.",
+        "Collaborated with the compliance team to develop a metadata management system that ensured alignment with regulatory requirements, reducing audit risk by 15%",
+        "Worked closely with the business intelligence team to integrate data quality monitoring into their reporting framework, improving data-driven decision-making capabilities."
+      ]
+    },
+    {
+      "title": "Data Governance Analyst",
+      "company": "FinTech Solutions Ltd.",
+      "duration": "2018-2020",
+      "details": [
+        "Developed and maintained a data lineage dashboard using Power BI, providing stakeholders with real-time visibility into data flow and processing.",
+        "Worked with the IT team to implement data quality monitoring tools, reducing data errors by 20% and improving system reliability.",
+        "Collaborated with the compliance officer to develop a data governance framework that ensured alignment with industry regulations, reducing audit risk by 10%"
+      ]
+    },
+    {
+      "title": "Data Quality Intern",
+      "company": "DataCraft Inc.",
+      "duration": "Summer 2017",
+      "details": [
+        "Assisted in developing a data quality monitoring framework using open-source tools, resulting in a 15% reduction in data errors and improved data accuracy."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2018"
+  },
+  "skills": ["Great Expectations", "Power BI", "Python", "SQL", "Data Governance", "Compliance Frameworks"],
+  "certifications": []
+}
+```
+
+Note: I've used fictional information to create a realistic resume.
+

@@ -1,0 +1,45 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of healthcare analytics:
+
+```
+{
+  "name": "Ria Senapati",
+  "email": "riase@gmail.com",
+  "phone": "123-456-7890",
+  "linkedin": "https://www.linkedin.com/in/riase/",
+  "summary": "Dedicated and detail-oriented healthcare analytics professional with strong academic background and hands-on experience in electronic health records, patient risk scoring, treatment outcome modeling, and FHIR/HL7 data handling. Proficient in leveraging data insights to drive informed decision-making and improve patient care.",
+  "experience": [
+    {
+      "title": "Data Analyst Intern",
+      "company": "Healthcare Innovations Inc.",
+      "duration": "June-August 2022 (3 months)",
+      "details": [
+        "Worked with a cross-functional team to design and implement a predictive modeling framework for patient risk scoring using Python, scikit-learn, and TensorFlow.",
+        "Analyzed and interpreted large datasets from electronic health records (EHRs) to identify trends and patterns in patient outcomes.",
+        "Developed and maintained a dashboard using Tableau to visualize key performance indicators (KPIs) and metrics for quality improvement initiatives."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Healthcare Analytics",
+    "institution": "University of Maryland Baltimore County",
+    "year": "2022"
+  },
+  "skills": [
+    "Electronic Health Records (EHRs)",
+    "Patient Risk Scoring",
+    "Treatment Outcome Modeling",
+    "FHIR/HL7 Data Handling",
+    "Python",
+    "scikit-learn",
+    "TensorFlow",
+    "Tableau",
+    "Microsoft Excel"
+  ],
+  "certifications": [
+    "Certified Analytics Professional (CAP) - Association for Healthcare Information and Policy Analysis (AHIP)"
+  ]
+}
+```
+
+Note: As a fresher candidate, the focus is on highlighting academic projects, assistantships, and certifications. The internship experience is showcased in the "experience" section, with specific details on tools used, outcomes achieved, and impact.
+

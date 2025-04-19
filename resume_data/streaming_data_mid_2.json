@@ -1,0 +1,65 @@
+Here is the generated resume in JSON format:
+
+```
+{
+  "name": "Rohan Desai",
+  "email": "rohan.desai@example.com",
+  "phone": "+1 (555) 123-4567",
+  "linkedin": "https://www.linkedin.com/in/rohandesai/",
+  "summary": "Highly motivated and detail-oriented data engineer with 3 years of experience in designing, developing, and deploying scalable streaming data pipelines using Kafka, Spark Streaming, and Flink. Proven expertise in real-time ingestion, window functions, and event-driven architecture.",
+  "experience": [
+    {
+      "title": "Senior Data Engineer",
+      "company": "DataGenomics Inc.",
+      "duration": "2020-02 - Present (2 years)",
+      "details": [
+        "Designed and implemented a real-time data pipeline using Kafka, Spark Streaming, and Flink to ingest and process 10 million events per minute from various sources.",
+        "Developed and maintained multiple streaming applications using Scala and Java, with a focus on high availability and low latency.",
+        "Worked closely with the data science team to integrate machine learning models into the pipeline, resulting in a 30% increase in predictive accuracy.",
+        "Collaborated with cross-functional teams to design and deploy a cloud-native event-driven architecture using AWS Lambda and Amazon Kinesis.",
+        "Analyzed and optimized system performance, reducing latency by 25% and increasing throughput by 15%."
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "FinTech Solutions Inc.",
+      "duration": "2018-01 - 2020-01 (2 years)",
+      "details": [
+        "Built and deployed a Spark Streaming application to process high-volume financial transactions in real-time, ensuring compliance with regulatory requirements.",
+        "Developed a Kafka-based data ingestion pipeline to integrate multiple sources of market data, resulting in a 40% reduction in data latency.",
+        "Worked with the data science team to develop predictive models for risk assessment and portfolio optimization, using Spark MLlib and Flink."
+      ]
+    },
+    {
+      "title": "Data Engineering Intern",
+      "company": "Insightful Insights Inc.",
+      "duration": "Summer 2017 (3 months)",
+      "details": [
+        "Assisted in the design and development of a Flink-based streaming application to process IoT sensor data, focusing on low-latency event processing and real-time analytics.",
+        "Worked closely with senior engineers to understand the architecture and implemented multiple bug fixes and performance optimizations."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "Stanford University",
+    "year": "2018"
+  },
+  "skills": [
+    "Kafka",
+    "Spark Streaming",
+    "Flink",
+    "Real-time ingestion",
+    "Window functions",
+    "Event-driven architecture",
+    "Scala",
+    "Java",
+    "AWS Lambda",
+    "Amazon Kinesis"
+  ],
+  "certifications": []
+}
+```
+
+Please note that the details provided are fictional and for demonstration purposes only.
+

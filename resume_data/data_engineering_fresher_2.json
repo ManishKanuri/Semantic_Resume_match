@@ -1,0 +1,45 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of data engineering:
+
+```
+{
+  "name": "Rahul Verma",
+  "email": "rahulverma@email.com",
+  "phone": "+91-9876543210",
+  "linkedin": "www.linkedin.com/in/rahul-verma/",
+  "summary": "Highly motivated and detail-oriented data engineering professional with a strong academic background and hands-on experience in ETL development, Airflow, Apache Beam, dbt, and distributed system optimization. Proficient in leveraging data analytics to drive business decisions.",
+  "experience": [
+    {
+      "title": "Data Engineering Intern",
+      "company": "TechCorp Inc.",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Designed and developed ETL pipelines using Apache Beam and Airflow to integrate data from multiple sources for business intelligence purposes.",
+        "Collaborated with the data science team to optimize pipeline performance, reducing processing time by 30%.",
+        "Built and maintained a data lake using AWS S3, Glue, and Lake Formation, ensuring seamless data ingestion and querying.",
+        "Utilized dbt to develop and maintain data quality checks and data validation rules for improved data accuracy.",
+        "Worked closely with the infrastructure team to optimize distributed system performance, achieving 25% increased processing capacity."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Engineering",
+    "institution": "National Institute of Technology (NIT), Warangal",
+    "year": "2020-2022"
+  },
+  "skills": [
+    "ETL development using Apache Beam and Airflow",
+    "Data lake pipelines and architecture",
+    "dbt for data quality and validation",
+    "Distributed system optimization and performance tuning",
+    "Python programming language",
+    "SQL and NoSQL databases (AWS S3, Glue, Lake Formation)"
+  ],
+  "certifications": [
+    "Certified Data Engineer (CDE) by Data Science Council of America (DSCA)",
+    "Google Cloud Certified - Professional Data Engineer"
+  ]
+}
+```
+
+Please note that I've used fictional details for the candidate's experience and education. The goal is to create a realistic resume, not to represent an actual person or their achievements.
+

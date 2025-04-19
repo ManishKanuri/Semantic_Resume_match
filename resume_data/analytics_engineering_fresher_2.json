@@ -1,0 +1,41 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of analytics engineering:
+
+```
+{
+  "name": "Aarav Jain",
+  "email": "aajain@ucdavis.edu",
+  "phone": "+91-9876543210",
+  "linkedin": "https://www.linkedin.com/in/aaravjain/",
+  "summary": "Results-driven analytics engineer with a strong academic background and hands-on experience in dbt, dimensional modeling, SQL optimization, and data transformation pipelines. Proficient in leveraging technology to drive business insights and improve decision-making.",
+  "experience": [
+    {
+      "title": "Analytics Intern",
+      "company": "DataSift Analytics",
+      "duration": "June - August, 2022",
+      "details": [
+        "Designed and implemented a dbt-based data pipeline to streamline analytics workflows for a leading e-commerce company.",
+        "Worked closely with the analytics team to optimize SQL queries, reducing query times by 30% and improving report generation efficiency.",
+        "Collaborated with cross-functional teams to develop a data transformation pipeline using dimensional modeling, resulting in a 25% increase in data quality."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of California, Davis",
+    "year": "2022"
+  },
+  "skills": [
+    "dbt",
+    "Dimensional Modeling",
+    "SQL Optimization",
+    "Data Transformation Pipelines",
+    "Python",
+    "SQL",
+    "Tableau"
+  ],
+  "certifications": ["Google Analytics Certification"]
+}
+```
+
+Please note that the experience and projects sections are tailored for a fresher candidate, with only one main internship or entry-level role. The education section highlights the academic background, and the skills section includes relevant tools and technologies used in the field of analytics engineering.
+

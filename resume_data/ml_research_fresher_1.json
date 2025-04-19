@@ -1,0 +1,45 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of ML research:
+
+```json
+{
+  "name": "Aarav Kumar",
+  "email": "aarav.kumar@email.com",
+  "phone": "123-456-7890",
+  "linkedin": "www.linkedin.com/in/aaravkumar",
+  "summary": "Aspiring machine learning researcher with a strong academic background and passion for developing innovative AI solutions. Proficient in Python, TensorFlow, Keras, and PyTorch, with experience in research publications, arXiv submissions, experimental modeling, and benchmarking studies.",
+  "experience": [
+    {
+      "title": "Research Intern",
+      "company": "Neuralink Research Institute",
+      "duration": "Jun 2022 - Aug 2022",
+      "details": [
+        "Collaborated with senior researchers to develop a novel neural network architecture for image classification using PyTorch and Keras.",
+        "Conducted extensive literature reviews on recent advancements in deep learning and presented findings to the research team.",
+        "Assisted in data preprocessing, feature engineering, and model evaluation for a natural language processing project."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Artificial Intelligence",
+    "institution": "Stanford University",
+    "year": "2021-2022"
+  },
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Keras",
+    "PyTorch",
+    "NumPy",
+    "Pandas",
+    "Jupyter Notebooks",
+    "Matplotlib",
+    "Seaborn"
+  ],
+  "certifications": [
+    "Certified AI and Machine Learning Professional (CAMP)"
+  ]
+}
+```
+
+This resume highlights the candidate's research experience, academic projects, assistantships, and certifications. As a fresher, it focuses on the internship role and provides specific details about the tasks accomplished, technologies used, and outcomes achieved.
+

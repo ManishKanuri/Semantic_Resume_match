@@ -1,0 +1,44 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of healthcare analytics:
+
+```json
+{
+  "name": "Kavita Jain",
+  "email": "kavitajain23@gmail.com",
+  "phone": "123-456-7890",
+  "linkedin": "www.linkedin.com/in/kavitajain",
+  "summary": "Highly motivated and detail-oriented healthcare analytics professional with a strong academic background in biostatistics. Proficient in electronic health records, patient risk scoring, treatment outcome modeling, and FHIR/HL7 data handling. Passionate about applying analytical skills to improve patient outcomes and drive informed decision-making in the healthcare industry.",
+  "experience": [
+    {
+      "title": "Healthcare Analytics Intern",
+      "company": "MedTech Inc.",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Developed patient risk scoring models using Python and scikit-learn to predict hospital readmission rates for a chronic disease management project.",
+        "Worked with a cross-functional team to design and implement data visualizations using Tableau, resulting in improved communication of insights to stakeholders.",
+        "Collaborated with data engineers to integrate FHIR data feeds into our analytics platform, ensuring seamless data flow and scalability."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Biostatistics",
+    "institution": "University of Pennsylvania",
+    "year": "2022"
+  },
+  "skills": [
+    "Python",
+    "R",
+    "Tableau",
+    "FHIR/HL7 data handling",
+    "Electronic health records (EHRs)",
+    "Patient risk scoring and predictive analytics",
+    "Treatment outcome modeling and evaluation",
+    "Data visualization and communication"
+  ],
+  "certifications": [
+    "Certified Analytics Professional (CAP) - Association for Healthcare Information and Technology Professionals (AHIMA)"
+  ]
+}
+```
+
+Please note that this is just an example, and you should customize your resume based on your actual experiences, skills, and accomplishments.
+

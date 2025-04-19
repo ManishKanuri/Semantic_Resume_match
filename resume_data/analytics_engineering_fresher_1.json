@@ -1,0 +1,33 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of analytics engineering:
+
+```
+{
+  "name": "Aarav Jain",
+  "email": "a.jain23@gmail.com",
+  "phone": "+91-9876543210",
+  "linkedin": "www.linkedin.com/in/aaravjain23",
+  "summary": "Recent graduate with a strong foundation in data analysis and engineering. Proficient in dbt, dimensional modeling, SQL optimization, and data transformation pipelines for analytics teams. Eager to apply my skills and knowledge to drive business insights and growth.",
+  "experience": [
+    {
+      "title": "Analytics Intern",
+      "company": "Zeta Analytics Pvt Ltd",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Designed and implemented a dbt-based data pipeline for processing customer transactional data, resulting in a 30% reduction in query execution time.",
+        "Collaborated with the analytics team to develop a dimensional model for analyzing customer behavior, leading to improved insights on customer churn rates.",
+        "Optimized SQL queries using database indexing and query optimization techniques, reducing query execution time by 25%."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2022"
+  },
+  "skills": ["dbt", "dimensional modeling", "SQL optimization", "Python", "Pandas", "NumPy"],
+  "certifications": ["Google Analytics Certification"]
+}
+```
+
+Note: The experience section is based on a single internship role, which is common for freshers. The education section reflects the candidate's recent graduation from IIT Delhi. The skills and certifications sections highlight the candidate's proficiency in relevant tools and technologies.
+

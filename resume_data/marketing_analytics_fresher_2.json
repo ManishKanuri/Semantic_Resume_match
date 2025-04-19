@@ -1,0 +1,48 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of marketing analytics:
+
+```
+{
+  "name": "Riya Jain",
+  "email": "riya.jain25@gmail.com",
+  "phone": "+91 9876543210",
+  "linkedin": "https://www.linkedin.com/in/riyajain25/",
+  "summary": "Highly motivated and detail-oriented marketing analytics professional with a strong academic background in data analysis and marketing. Proficient in leveraging data-driven insights to drive business growth and optimize marketing strategies.",
+  "experience": [
+    {
+      "title": "Marketing Analytics Intern",
+      "company": "MarketMinds Consulting Pvt. Ltd.",
+      "duration": "June - August, 2022",
+      "details": [
+        "Worked on a project to analyze the campaign ROI of a leading e-commerce brand using Google Analytics and Excel.",
+        "Developed user segmentation models using RFM analysis and clustering techniques to identify high-value customer groups.",
+        "Built attribution models using linear regression and decision trees to measure the effectiveness of different marketing channels."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Marketing Analytics",
+    "institution": "University of Delhi",
+    "year": "2022"
+  },
+  "skills": [
+    "Google Analytics",
+    "Excel",
+    "Python",
+    "R",
+    "Tableau",
+    "SQL"
+  ],
+  "certifications": [
+    "Certified Marketing Analyst (CMA)"
+  ]
+}
+```
+
+Note:
+
+* The candidate has only one internship experience, which is a common scenario for freshers.
+* The summary highlights the candidate's academic background and their proficiency in marketing analytics tools and techniques.
+* The education section includes the Master's degree in Marketing Analytics, which is relevant to the field of marketing analytics.
+* The skills section lists a mix of technical and analytical skills that are commonly used in marketing analytics, including Google Analytics, Excel, Python, R, Tableau, and SQL.
+* The certifications section includes one certification, Certified Marketing Analyst (CMA), which demonstrates the candidate's expertise in marketing analytics.
+

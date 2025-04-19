@@ -1,0 +1,66 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of big data:
+
+```
+{
+  "name": "Rohan Patel",
+  "email": "rohan.patel@email.com",
+  "phone": "+1 (555) 123-4567",
+  "linkedin": "https://www.linkedin.com/in/rohan-patel/",
+  "summary": "Results-driven big data engineer with 3 years of experience in designing, developing, and deploying large-scale data processing solutions. Proven expertise in Spark, Hadoop, Hive, Presto, and batch/streaming data processing. Skilled in high-volume data transformation at scale.",
+  "experience": [
+    {
+      "title": "Senior Data Engineer",
+      "company": "DataGenomics Inc.",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and developed a scalable data pipeline using Spark, Hadoop, and Hive to process 10 million records per day.",
+        "Built a real-time streaming solution using Presto and Apache Kafka for processing high-volume financial transactions.",
+        "Collaborated with cross-functional teams to deliver multiple projects on time, resulting in a 25% increase in customer satisfaction.",
+        "Mentored junior engineers to improve code quality, efficiency, and knowledge sharing within the team.",
+        "Worked closely with data scientists to develop predictive models using machine learning algorithms and big data analytics."
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Apex Data Solutions",
+      "duration": "2018-2020",
+      "details": [
+        "Built a batch processing pipeline using Spark and Hadoop to transform 500 million records daily.",
+        "Developed a data quality control framework using Hive and Presto to ensure high-quality data outputs.",
+        "Worked with the DevOps team to deploy and manage multiple big data clusters on AWS and GCP.",
+        "Coordinated with data analysts to integrate data insights into business intelligence reports, improving reporting accuracy by 30%."
+      ]
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Insight Analytics Inc.",
+      "duration": "2017",
+      "details": [
+        "Assisted in developing a predictive model using machine learning algorithms and big data analytics to forecast sales trends.",
+        "Worked with the data engineering team to design and develop a scalable data pipeline for processing customer data."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2018"
+  },
+  "skills": [
+    "Spark",
+    "Hadoop",
+    "Hive",
+    "Presto",
+    "Apache Kafka",
+    "AWS Glue",
+    "GCP BigQuery",
+    "Python",
+    "Java",
+    "Scala"
+  ],
+  "certifications": []
+}
+```
+
+Please note that the details in this resume are fictional, but it is designed to showcase a mid-candidate's experience and skills in big data engineering.
+

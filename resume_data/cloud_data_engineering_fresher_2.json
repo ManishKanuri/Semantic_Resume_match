@@ -1,0 +1,42 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of cloud data engineering:
+
+```
+{
+  "name": "Saurabh Jain",
+  "email": "saurabh.jain@email.com",
+  "phone": "+91-9876543210",
+  "linkedin": "www.linkedin.com/in/saurabhjain21",
+  "summary": "Highly motivated and detail-oriented cloud data engineer with a strong academic background and hands-on experience in designing and implementing scalable data solutions on AWS, GCP, and Azure. Proficient in cloud-native design principles and passionate about leveraging data to drive business decisions.",
+  "experience": [
+    {
+      "title": "Cloud Data Engineering Intern",
+      "company": "DataGenic Solutions",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Designed and implemented a cloud-native data pipeline on AWS using Glue, Redshift, and Lake Formation to process 10 million records daily with an accuracy rate of 99.9%",
+        "Worked closely with the data science team to develop a predictive model using BigQuery and Dataflow that improved forecast accuracy by 25%",
+        "Collaborated with the infrastructure team to deploy a scalable Azure Synapse Analytics solution for real-time data processing",
+        "Contributed to improving the overall data quality by implementing data validation and cleaning processes using AWS Glue and GCP's Dataflow"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2020-2022"
+  },
+  "skills": [
+    "AWS Glue, Redshift, Lake Formation",
+    "GCP BigQuery, Dataflow",
+    "Azure Synapse Analytics",
+    "Cloud-native design principles",
+    "Python, SQL, Java"
+  ],
+  "certifications": [
+    "Google Cloud Certified - Professional Data Engineer (in progress)"
+  ]
+}
+```
+
+Please note that this is a highly realistic and original resume, but it's not based on any specific individual or real-world scenario. The information provided is fictional and for demonstration purposes only.
+

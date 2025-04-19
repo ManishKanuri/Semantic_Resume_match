@@ -1,0 +1,29 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of financial analytics:
+
+```
+{
+  "name": "Riya Jain",
+  "email": "riya.jain@email.com",
+  "phone": "+91 9898989900",
+  "linkedin": "https://www.linkedin.com/in/riyajain/",
+  "summary": "Highly motivated and detail-oriented financial analytics professional with a strong academic background in finance and data analysis. Proficient in credit risk modeling, fraud detection, financial forecasting, loan scoring, and investment optimization using Python, R, Excel, and Tableau.",
+  "experience": [
+    {
+      "title": "Financial Analyst Intern",
+      "company": "Kotak Mahindra Bank",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": ["Developed a credit risk model using Python's scikit-learn library to predict loan defaults with an accuracy of 85%", "Worked with the bank's data team to integrate datasets and create dashboards in Tableau", "Assisted in analyzing financial statements to identify trends and insights", "Collaborated with senior analysts to develop investment strategies for high-net-worth clients", "Improved data quality by identifying and correcting errors"]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Finance",
+    "institution": "National Institute of Financial Management (NIFM)",
+    "year": "2021-2022"
+  },
+  "skills": ["Python", "R", "Excel", "Tableau", "SQL", "Machine Learning"],
+  "certifications": ["Certified Associate in Data Science (CADS)", "Certified Financial Planner (CFP)"]
+}
+```
+
+Please note that this is a fictional candidate, and the experience, projects, and certifications are just examples.
+

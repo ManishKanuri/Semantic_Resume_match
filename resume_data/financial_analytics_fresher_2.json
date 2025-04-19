@@ -1,0 +1,33 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of financial analytics:
+
+```
+{
+  "name": "Aarav Aggarwal",
+  "email": "aagarwal123@gmail.com",
+  "phone": "+91-999-999-9999",
+  "linkedin": "https://www.linkedin.com/in/aaravaggarwal/",
+  "summary": "Highly motivated and detail-oriented fresher in financial analytics with a strong academic background and hands-on experience in credit risk modeling, fraud detection, and investment optimization. Proficient in leveraging data visualization tools to drive business decisions.",
+  "experience": [
+    {
+      "title": "Financial Analytics Intern",
+      "company": "KPMG Advisory Services Pvt Ltd",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Assisted in building a credit risk model using Python and NumPy to predict loan defaults for a leading bank.",
+        "Utilized data visualization tools like Tableau to create interactive dashboards for senior management.",
+        "Worked closely with the risk modeling team to optimize investment strategies using machine learning algorithms."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Financial Analytics",
+    "institution": "University of Mumbai",
+    "year": "2022"
+  },
+  "skills": ["Python", "NumPy", "Pandas", "Tableau", "Power BI", "Excel"],
+  "certifications": ["Certificate in Financial Risk Management (CFRM)", "Certificate in Data Analytics (CDA)"]
+}
+```
+
+Note: The experience section is focused on the internship, as this is a fresher candidate. If applicable, research experience or assistantships could be included in addition to the internship details.
+

@@ -1,0 +1,66 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of NLP:
+
+```json
+{
+  "name": "Rahul Agrawal",
+  "email": "rahul.agrawal@example.com",
+  "phone": "(123) 456-7890",
+  "linkedin": "https://www.linkedin.com/in/rahul-agrawal-nlp/",
+  "summary": "Highly motivated and detail-oriented NLP professional with 3+ years of experience in developing and deploying AI-powered natural language processing solutions. Proficient in a range of tools including SpaCy, HuggingFace Transformers, and BERT-based models.",
+  "experience": [
+    {
+      "title": "Senior NLP Engineer",
+      "company": "Optum Inc.",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and implemented a text classification system using SpaCy and TensorFlow to classify patient feedback into positive, negative, or neutral sentiment categories.",
+        "Worked closely with the data science team to develop a topic modeling solution using Latent Dirichlet Allocation (LDA) to analyze customer reviews and identify key topics.",
+        "Utilized HuggingFace Transformers to fine-tune BERT-based models for Named Entity Recognition (NER) tasks, achieving an F1-score of 0.85 on the CoNLL-2003 dataset.",
+        "Collaborated with cross-functional teams to integrate NLP solutions into existing systems and products, ensuring seamless integration and high-quality results.",
+        "Developed and maintained a Python-based NLP framework using Flask and Django, enabling efficient prototyping and deployment of NLP models.",
+        "Conducted regular code reviews and ensured adherence to coding standards, contributing to the overall quality and maintainability of the codebase.",
+        "Worked with data engineers to design and implement scalable data pipelines for processing large volumes of text data.",
+        "Presented findings and insights from NLP projects to stakeholders, including business leaders and product managers, to inform strategic decision-making."
+      ]
+    },
+    {
+      "title": "NLP Engineer",
+      "company": "Conversica Inc.",
+      "duration": "2018-2020",
+      "details": [
+        "Developed a sentiment analysis system using NLTK and VADER Sentiment Analysis to classify customer feedback on social media platforms.",
+        "Worked with data scientists to create a topic modeling solution using Gensim and LDA to analyze customer reviews and identify key topics.",
+        "Utilized SpaCy to develop a named entity recognition (NER) model for extracting relevant information from unstructured text data.",
+        "Collaborated with the development team to integrate NLP solutions into existing conversational AI systems, ensuring high-quality results and seamless integration."
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "company": "University of California, Berkeley",
+      "duration": "2016-2018",
+      "details": [
+        "Assisted in the development of a BERT-based NER model for extracting relevant information from text data.",
+        "Conducted research on using deep learning techniques to improve the accuracy of NLP models."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master's in Computer Science",
+    "institution": "University of California, Berkeley",
+    "year": "2018"
+  },
+  "skills": [
+    "SpaCy",
+    "HuggingFace Transformers",
+    "BERT-based models",
+    "TensorFlow",
+    "Python",
+    "Flask",
+    "Django"
+  ],
+  "certifications": []
+}
+```
+
+Note: The details and experience mentioned in the resume are fictional, but they are based on real-world scenarios and skills.
+

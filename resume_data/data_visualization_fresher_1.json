@@ -1,0 +1,44 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of data visualization:
+
+```
+{
+  "name": "Riya Jain",
+  "email": "riya.jain@email.com",
+  "phone": "123-456-7890",
+  "linkedin": "https://www.linkedin.com/in/riyajain/",
+  "summary": "Results-driven data visualization enthusiast with a strong academic background and proficiency in creating interactive dashboards using Tableau, Power BI, D3.js, and Plotly. Proficient in storytelling with visual analytics and eager to apply my skills in a dynamic environment.",
+  "experience": [
+    {
+      "title": "Data Visualization Intern",
+      "company": "Insight Analytics Inc.",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Assisted in creating interactive dashboards for client-facing reports using Tableau and Power BI.",
+        "Collaborated with a team of data scientists to develop data stories, resulting in a 25% increase in engagement rates.",
+        "Designed and developed a dashboard to visualize sales trends, helping the sales team make data-driven decisions."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2022"
+  },
+  "skills": [
+    "Tableau",
+    "Power BI",
+    "D3.js",
+    "Plotly",
+    "JavaScript",
+    "Python",
+    "HTML/CSS",
+    "Microsoft Office Suite"
+  ],
+  "certifications": [
+    "Certified Data Visualization Specialist (CDVS)"
+  ]
+}
+```
+
+Note: The experience section is limited to one internship role, as per the requirement for a fresher candidate. If applicable, research experience or assistantships could be added in place of work experience.
+

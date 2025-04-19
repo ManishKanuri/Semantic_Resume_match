@@ -1,0 +1,61 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of data product management:
+
+```json
+{
+  "name": "Riya Jain",
+  "email": "riya.jain@email.com",
+  "phone": "+1 (555) 123-4567",
+  "linkedin": "https://www.linkedin.com/in/riyajain/",
+  "summary": "Results-driven Data Product Manager with 3+ years of experience in technical product planning, data use cases, cross-functional coordination, and product lifecycle management. Proven track record of successfully delivering end-to-end system building projects, driving business growth, and collaborating with stakeholders to achieve shared goals.",
+  "experience": [
+    {
+      "title": "Senior Data Product Manager",
+      "company": "Data Insights Inc.",
+      "duration": "2020-2022",
+      "details": [
+        "Developed data-driven product strategies for a customer analytics platform, resulting in 25% increase in revenue and 30% reduction in churn rate.",
+        "Led cross-functional teams to design and deploy AI-powered predictive models, achieving an accuracy rate of 92%",
+        "Collaborated with data scientists and engineers to deliver a scalable data warehousing solution, processing over 10 billion rows of data daily.",
+        "Managed product roadmap and prioritization, ensuring alignment with business objectives and customer needs.",
+        "Worked closely with sales teams to develop targeted marketing campaigns, resulting in a 15% increase in new customer acquisitions."
+      ]
+    },
+    {
+      "title": "Data Product Manager",
+      "company": "Insightful Analytics",
+      "duration": "2018-2020",
+      "details": [
+        "Designed and launched a data visualization platform for non-technical stakeholders, resulting in a 50% increase in user adoption.",
+        "Coordinated with data engineers to develop an ETL pipeline, reducing data processing time by 75%",
+        "Collaborated with business stakeholders to define data use cases and requirements, ensuring product alignment with business objectives."
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Analytics Solutions Inc.",
+      "duration": "2015-2018",
+      "details": [
+        "Analyzed large datasets to identify trends and insights, presenting findings to stakeholders and informing data-driven decision-making."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2015"
+  },
+  "skills": [
+    "Data Product Management", 
+    "Technical Product Planning", 
+    "Cross-Functional Coordination", 
+    "Product Lifecycle Management", 
+    "Data Visualization Tools (Tableau, Power BI)", 
+    "Machine Learning (Python, TensorFlow)", 
+    "SQL and NoSQL Databases"
+  ],
+  "certifications": ["Google Analytics Certification"]
+}
+```
+
+Please note that this is a fictional example. The skills, experience, and education are based on common requirements for data product management roles, but the specific details should be customized to fit your own qualifications and experiences.
+

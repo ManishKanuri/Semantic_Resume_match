@@ -1,0 +1,46 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of computer vision:
+
+```json
+{
+  "name": "Rohan Kumar",
+  "email": "rohan.kumar@email.com",
+  "phone": "+91 9845678901",
+  "linkedin": "https://www.linkedin.com/in/rohankumar/",
+  "summary": "Dedicated computer vision engineer with 3+ years of experience in developing real-time object detection systems using CNNs, OpenCV, and YOLOv8. Proficient in designing and implementing image classification and segmentation pipelines. Strong passion for staying updated on the latest advancements in the field.",
+  "experience": [
+    {
+      "title": "Computer Vision Engineer",
+      "company": "AI-Powered Vision Inc.",
+      "duration": "Jan 2020 - Present (2+ years)",
+      "details": [
+        "Designed and developed a real-time object detection system using YOLOv8 for an autonomous vehicle project, achieving an average FPS of 30 on a single NVIDIA GTX 1080 Ti",
+        "Collaborated with the data science team to develop an image classification pipeline using CNNs, resulting in a 5% increase in accuracy and 20% reduction in processing time",
+        "Worked closely with cross-functional teams to integrate computer vision models into end-to-end systems, ensuring seamless integration with other AI modules",
+        "Optimized OpenCV-based object tracking algorithms for improved precision and recall on high-speed video streams",
+        "Mentored junior engineers in implementing computer vision concepts using OpenCV and PyTorch, resulting in a 30% increase in team productivity",
+        "Participated in code reviews and ensured adherence to best practices and coding standards"
+      ]
+    },
+    {
+      "title": "Computer Vision Intern",
+      "company": "Visionary AI Labs",
+      "duration": "May 2018 - Aug 2018 (4 months)",
+      "details": [
+        "Worked on a research project to develop an object segmentation pipeline using U-Net and semantic segmentation techniques, achieving an average IoU of 0.85",
+        "Assisted in implementing a real-time facial recognition system using OpenCV and deep learning algorithms, achieving an accuracy rate of 95%",
+        "Collaborated with the team to optimize image processing pipelines for improved performance and reduced latency"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "Rajiv Gandhi Institute of Technology (RGIT)",
+    "year": "2016-2020"
+  },
+  "skills": ["Python", "OpenCV", "PyTorch", "YOLOv8", "CNNs", "Image Processing"],
+  "certifications": []
+}
+```
+
+This resume highlights the candidate's experience in computer vision, with a focus on real-time object detection, CNNs, and OpenCV. It also showcases their ability to work collaboratively as part of cross-functional teams and mentor junior engineers. The education section provides a brief overview of the candidate's academic background, while the skills section lists the relevant tools and technologies they are proficient in using.
+

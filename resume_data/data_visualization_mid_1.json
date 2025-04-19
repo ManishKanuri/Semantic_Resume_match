@@ -1,0 +1,60 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of data visualization:
+
+```
+{
+  "name": "Aarav Jain",
+  "email": "aarav.jain@email.com",
+  "phone": "(123) 456-7890",
+  "linkedin": "https://www.linkedin.com/in/aaravjain/",
+  "summary": "Results-driven data visualization expert with 3+ years of experience in crafting intuitive and interactive dashboards using Tableau, Power BI, D3.js, Plotly, and storytelling with visual analytics. Proven track record of delivering high-impact insights to stakeholders, leveraging strong analytical skills and attention to detail.",
+  "experience": [
+    {
+      "title": "Senior Data Visualization Analyst",
+      "company": "Deloitte Consulting LLP",
+      "duration": "2020-Present (2+ years)",
+      "details": [
+        "Developed interactive dashboards using Tableau, Power BI, and D3.js to analyze customer behavior and preferences for a Fortune 500 client.",
+        "Collaborated with cross-functional teams to design and implement data visualizations that informed business decisions, resulting in a 25% increase in sales",
+        "Created data stories and presentations that effectively communicated complex insights to non-technical stakeholders, enhancing overall understanding and buy-in",
+        "Worked closely with data engineers to integrate data pipelines and ETL processes into visualization tools, ensuring seamless data flow",
+        "Implemented A/B testing and experimentation frameworks using Plotly to optimize marketing campaigns and improve customer engagement",
+        "Conducted training sessions for junior analysts on best practices in data visualization, resulting in improved analytics capabilities across the team"
+      ]
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "company": "Kaiser Permanente",
+      "duration": "2018-2020 (2 years)",
+      "details": [
+        "Designed and developed interactive dashboards using Tableau to track patient outcomes, hospital readmissions, and quality metrics for a large healthcare organization.",
+        "Worked closely with data analysts to analyze claims data and identify trends in medical spending, resulting in cost savings of $500,000",
+        "Created visualizations that informed clinical decision-making, leading to improved patient care and reduced readmission rates",
+        "Collaborated with IT teams to integrate data sources and ETL processes into visualization tools, ensuring accurate and timely insights",
+        "Developed and maintained a data catalog using Plotly Dashboards for data discovery and exploration"
+      ]
+    },
+    {
+      "title": "Data Visualization Intern",
+      "company": "The New York Times",
+      "duration": "Summer 2019 (3 months)",
+      "details": [
+        "Assisted in the development of interactive visualizations using D3.js to support investigative reporting and data journalism stories.",
+        "Worked closely with journalists and designers to create data-driven narratives, resulting in a series of award-winning articles",
+        "Conducted research on data visualization best practices and trends, presenting findings to senior editors and management"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "New York University",
+    "year": "2018-2020"
+  },
+  "skills": [
+    "Tableau", "Power BI", "D3.js", "Plotly", "JavaScript", "Python", "SQL"
+  ],
+  "certifications": ["Certified Data Visualization Specialist (CDVS)"
+}
+```
+
+Please note that this is a highly realistic and original resume, but it's not intended to be used as a real-life example.
+

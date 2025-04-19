@@ -1,0 +1,45 @@
+Here is a highly realistic and original resume for a mid candidate in the field of analytics engineering:
+
+```json
+{
+  "name": "Aarav Jaiswal",
+  "email": "a.arav.j@gmail.com",
+  "phone": "+91-900-1234-5678",
+  "linkedin": "in.linkedin.com/in/aaravjaiswal",
+  "summary": "Results-driven analytics engineer with 3+ years of experience in building scalable data pipelines and optimizing database performance. Skilled in dbt, dimensional modeling, SQL optimization, and data transformation pipelines for analytics teams.",
+  "experience": [
+    {
+      "title": "Senior Analytics Engineer",
+      "company": "DataFusion Inc.",
+      "duration": "2 years 6 months (2020-2022)",
+      "details": [
+        "Designed and implemented a data warehouse using dbt and dimensional modeling, resulting in a 30% reduction in query latency and 25% increase in data quality",
+        "Optimized SQL queries for analytics teams, achieving a 50% decrease in query execution time and improved data freshness by 15%",
+        "Collaborated with cross-functional teams to develop data transformation pipelines, integrating with cloud-based data lakes and big data tools",
+        "Mentored junior engineers on dbt best practices, dimensional modeling, and SQL optimization techniques",
+        "Developed and maintained a scalable data ingestion architecture using Apache Kafka and AWS Kinesis"
+      ]
+    },
+    {
+      "title": "Analytics Engineer",
+      "company": "Insightful Insights LLC",
+      "duration": "1 year 9 months (2018-2020)",
+      "details": [
+        "Built and maintained a data pipeline for real-time analytics using Apache NiFi, AWS Lambda, and Amazon S3",
+        "Developed and deployed SQL queries for data warehousing and business intelligence reporting",
+        "Collaborated with the data science team to develop predictive models and analytics dashboards"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2018-2020"
+  },
+  "skills": ["dbt", "dimensional modeling", "SQL optimization", "data transformation pipelines", "Apache Kafka", "AWS Kinesis", "Apache NiFi", "AWS Lambda"],
+  "certifications": []
+}
+```
+
+Note: The education section is included only for mid-level candidates. Freshers can omit this section or include their relevant research experience or assistantships if applicable.
+

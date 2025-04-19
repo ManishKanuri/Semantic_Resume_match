@@ -1,0 +1,42 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of big data:
+
+```json
+{
+  "name": "Rohan Kumar",
+  "email": "rohan.kumar@freshers.com",
+  "phone": "+91-99999-88888",
+  "linkedin": "https://www.linkedin.com/in/rohan-kumar-bd/",
+  "summary": "Recent Computer Science graduate with a strong academic background and research experience in big data processing. Proficient in Spark, Hadoop, Hive, Presto, and batch/streaming data transformation at scale.",
+  "experience": [
+    {
+      "title": "Data Science Intern",
+      "company": "Accenture Consulting Services Pvt. Ltd.",
+      "duration": "June 2022 - August 2022",
+      "details": [
+        "Worked on a project to optimize customer purchase patterns using Spark and Hadoop for a leading e-commerce company",
+        "Designed and implemented ETL pipelines in Hive and Presto to process high-volume data",
+        "Collaborated with the data engineering team to develop scalable batch processing solutions",
+        "Analyzed and visualized data insights using Tableau to support business decision-making",
+        "Contributed to code reviews and ensured adherence to coding standards"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "Indian Institute of Technology, Delhi",
+    "year": "2022"
+  },
+  "skills": [
+    "Spark",
+    "Hadoop",
+    "Hive",
+    "Presto",
+    "Batch and Streaming Data Processing",
+    "High-Volume Data Transformation at Scale"
+  ],
+  "certifications": []
+}
+```
+
+Note: The candidate has not acquired any certifications yet, but has the potential to do so in the future.
+

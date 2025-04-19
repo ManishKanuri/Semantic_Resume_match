@@ -1,0 +1,41 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of NLP:
+
+```json
+{
+  "name": "Rohan Rastogi",
+  "email": "rohanrastogi93@gmail.com",
+  "phone": "+91-9876543210",
+  "linkedin": "www.linkedin.com/in/rohar-rastogi/",
+  "summary": "Highly motivated and detail-oriented NLP enthusiast with a strong academic background in computer science. Proficient in text classification, sentiment analysis, topic modeling, named entity recognition (NER), and working knowledge of SpaCy, HuggingFace Transformers, and BERT-based models.",
+  "experience": [
+    {
+      "title": "NLP Intern",
+      "company": "Infinia Technologies",
+      "duration": "June 2022 - August 2022",
+      "details": [
+        "Developed a sentiment analysis model using HuggingFace Transformers, achieving an accuracy of 87% on the IMDB dataset.",
+        "Worked with SpaCy to implement named entity recognition (NER) for extracting relevant information from text data.",
+        "Collaborated with a team of 5 members to design and develop a topic modeling pipeline using Gensim, resulting in improved clustering efficiency by 30%."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2022"
+  },
+  "skills": [
+    "Text classification",
+    "Sentiment analysis",
+    "Topic modeling",
+    "Named entity recognition (NER)",
+    "SpaCy",
+    "HuggingFace Transformers",
+    "BERT-based models"
+  ],
+  "certifications": []
+}
+```
+
+This resume highlights Rohan's internship experience, academic background, and skills in NLP. The experience section showcases his achievements and projects during the internship, while the education section details his academic credentials.
+

@@ -1,0 +1,54 @@
+Here is a highly realistic and original resume for a mid candidate in the field of reinforcement learning:
+
+```
+{
+  "name": "Rohan Kumar",
+  "email": "rohan.kumar@email.com",
+  "phone": "+91-1234567890",
+  "linkedin": "https://www.linkedin.com/in/rohan-kumar-5b2a7a4a/",
+  "summary": "Highly motivated and experienced reinforcement learning professional with a strong background in Q-learning, policy gradients, and multi-armed bandits. Proficient in building end-to-end systems using OpenAI Gym environments.",
+  "experience": [
+    {
+      "title": "Senior AI Engineer",
+      "company": "NVIDIA Research",
+      "duration": "2 years (2020-2022)",
+      "details": [
+        "Designed and implemented a Q-learning based solution for optimizing supply chain logistics, resulting in a 25% reduction in transportation costs.",
+        "Collaborated with cross-functional teams to integrate the reinforcement learning model with existing ERP systems, ensuring seamless integration and data exchange.",
+        "Developed and trained policy gradients models for personalized product recommendations, achieving an average increase of 15% in customer engagement.",
+        "Worked closely with data scientists to design and implement reward functions that accurately captured business objectives, resulting in a 30% improvement in recommendation accuracy.",
+        "Utilized OpenAI Gym environments to simulate complex scenarios, ensuring the robustness and reliability of the AI models."
+      ]
+    },
+    {
+      "title": "AI Research Engineer",
+      "company": "UC Berkeley Research Group",
+      "duration": "1.5 years (2019-2020)",
+      "details": [
+        "Developed a multi-armed bandits algorithm for optimizing ad placement in online advertising, achieving an average increase of 20% in ad revenue.",
+        "Collaborated with researchers to design and implement reward functions that captured complex business objectives, resulting in a 25% improvement in campaign ROI."
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Stanford University AI Lab",
+      "duration": "1 year (2018-2019)",
+      "details": [
+        "Assisted researchers in designing and implementing Q-learning models for robotics applications, achieving a 30% increase in task completion efficiency."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Artificial Intelligence",
+    "institution": "Stanford University",
+    "year": "2019"
+  },
+  "skills": [
+    "OpenAI Gym", "Q-learning", "Policy Gradients", "Multi-Armed Bandits", "Reward Modeling", "Python", "TensorFlow", "PyTorch", "Jupyter Notebook"
+  ],
+  "certifications": []
+}
+```
+
+Please note that this is a fictional resume and the information provided is not meant to represent any real individual or company.
+

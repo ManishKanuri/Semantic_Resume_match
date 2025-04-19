@@ -1,0 +1,44 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of product analytics:
+
+```
+{
+  "name": "Aarav Saxena",
+  "email": "aaravsaxena@email.com",
+  "phone": "+91-1234567890",
+  "linkedin": "https://www.linkedin.com/in/aaravsaxena/",
+  "summary": "Aspiring product analyst with a strong academic background and hands-on experience in user funnel analysis, A/B testing, and retention metrics. Proficient in Mixpanel, Amplitude, and customer behavior modeling. Eager to apply my skills to drive business growth and improve customer experiences.",
+  "experience": [
+    {
+      "title": "Product Analytics Intern",
+      "company": "Zapptitude Inc.",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Conducted user funnel analysis to identify drop-off points and optimized the onboarding process, resulting in a 15% increase in new user engagement",
+        "Designed and executed A/B tests using Mixpanel to determine the impact of different notification triggers on app retention, leading to a 12% improvement in overall retention rate"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2021-2022"
+  },
+  "skills": [
+    "Mixpanel",
+    "Amplitude",
+    "Customer behavior modeling",
+    "A/B testing",
+    "User funnel analysis",
+    "Retention metrics",
+    "SQL",
+    "Python",
+    "Tableau"
+  ],
+  "certifications": [
+    "Certified Data Scientist (CDS) - Data Science Council of America (DASCA)"
+  ]
+}
+```
+
+Note: As this is a fresher candidate, the experience section only includes one main internship role. If the candidate had research experience or assistantships, I would have included those as well. The projects section is not applicable in this case since there are no specific project examples to highlight.
+

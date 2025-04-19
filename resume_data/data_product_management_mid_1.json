@@ -1,0 +1,51 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of data product management:
+
+```
+{
+  "name": "Riya Jain",
+  "email": "riya.jain@email.com",
+  "phone": "+91-9876543210",
+  "linkedin": "https://www.linkedin.com/in/riyajain/",
+  "summary": "Results-driven Data Product Manager with 3+ years of experience in technical product planning, data use cases, and cross-functional coordination. Proven track record of delivering end-to-end system builds, driving business growth through data-driven insights, and fostering collaborative environments.",
+  "experience": [
+    {
+      "title": "Senior Data Product Manager",
+      "company": "DataSphere Technologies",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and launched a cloud-based data warehousing solution for a Fortune 500 client, resulting in a 30% increase in sales forecasting accuracy.",
+        "Managed a team of 5 engineers and analysts to develop a real-time data analytics platform for customer churn prediction, achieving a 25% reduction in churn rate.",
+        "Collaborated with cross-functional teams (Engineering, Data Science, and Sales) to prioritize product features and roadmap, ensuring alignment with business objectives."
+      ]
+    },
+    {
+      "title": "Data Product Manager",
+      "company": "Insightful Analytics",
+      "duration": "2018-2020",
+      "details": [
+        "Developed a data storytelling framework for client-facing presentations, resulting in a 50% increase in deal closures.",
+        "Worked closely with Data Scientists to identify and prioritize high-impact data use cases, leading to a 20% reduction in time-to-market for new products."
+      ]
+    },
+    {
+      "title": "Product Operations Analyst",
+      "company": "Innovate Technologies",
+      "duration": "2015-2018",
+      "details": [
+        "Assisted in the development of a data-driven decision-making framework, contributing to a 15% increase in sales revenue.",
+        "Coordinated with cross-functional teams to launch new products and services, ensuring timely and cost-effective delivery."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of California, Berkeley",
+    "year": "2015"
+  },
+  "skills": ["Tableau", "D3.js", "Python", "SQL", "JIRA"],
+  "certifications": []
+}
+```
+
+Please note that the above output is a realistic example and not actual candidate information.
+

@@ -1,0 +1,55 @@
+Here is a highly realistic and original resume for a mid-level data engineering candidate:
+
+```json
+{
+  "name": "Rahul Kumar",
+  "email": "rahul.kumar@example.com",
+  "phone": "+1 (555) 123-4567",
+  "linkedin": "https://www.linkedin.com/in/rahulkumar/",
+  "summary": "Highly motivated and detail-oriented data engineering professional with 3+ years of experience in designing, developing, and maintaining large-scale data pipelines. Proficient in ETL development, Airflow, Apache Beam, dbt, and distributed system optimization. Strong problem-solving skills and ability to collaborate effectively with cross-functional teams.",
+  "experience": [
+    {
+      "title": "Senior Data Engineer",
+      "company": "Epicor Solutions Inc.",
+      "duration": "January 2020 - Present (2+ years)",
+      "details": [
+        "Designed and developed multiple data pipelines using Apache Beam to integrate customer data from various sources, resulting in a 30% increase in data freshness and 25% reduction in pipeline execution time",
+        "Implemented dbt to transform and model customer data, enabling business stakeholders to make data-driven decisions with improved accuracy",
+        "Collaborated with the data science team to develop and deploy machine learning models using Airflow workflows, resulting in a 20% increase in model performance",
+        "Optimized distributed system architecture for large-scale data processing, reducing job execution time by 40%",
+        "Worked closely with the DevOps team to implement continuous integration and delivery (CI/CD) pipelines, ensuring smooth deployment of data engineering artifacts",
+        "Conducted code reviews and ensured adherence to coding standards, best practices, and testing frameworks",
+        "Mentored junior engineers on data pipeline development, ETL design, and Airflow workflow management"
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Zapier Inc.",
+      "duration": "June 2018 - December 2019 (1.5 years)",
+      "details": [
+        "Built and maintained multiple data pipelines using Apache Beam to integrate customer data from various sources, resulting in a 25% increase in data freshness",
+        "Developed ETL processes using Airflow to transform and model customer data, enabling business stakeholders to make data-driven decisions with improved accuracy",
+        "Collaborated with the data science team to develop and deploy machine learning models using dbt transformations, resulting in a 15% increase in model performance"
+      ]
+    },
+    {
+      "title": "Data Engineering Intern",
+      "company": "Microsoft Corporation",
+      "duration": "June 2017 - August 2017 (3 months)",
+      "details": [
+        "Assisted in the development of a data pipeline using Apache Beam to integrate customer data from various sources, resulting in a 10% increase in data freshness"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Computer Science",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2017-2021"
+  },
+  "skills": ["ETL development", "Airflow", "Apache Beam", "dbt", "data lake pipelines", "distributed system optimization"],
+  "certifications": []
+}
+```
+
+Note: The certifications section is empty since the candidate doesn't have any certifications.
+

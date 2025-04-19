@@ -1,0 +1,41 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of data governance:
+
+```
+{
+  "name": "Riya Jain",
+  "email": "riya.jain@gmail.com",
+  "phone": "+91 1234567890",
+  "linkedin": "https://www.linkedin.com/in/riyajain/",
+  "summary": "Highly motivated and detail-oriented data governance professional with a strong academic background and experience in data quality monitoring, lineage, metadata management, Great Expectations, and compliance frameworks. Proficient in collaborating with cross-functional teams to drive data-driven decisions.",
+  "experience": [
+    {
+      "title": "Data Governance Intern",
+      "company": "Innovative Insights Pvt Ltd",
+      "duration": "Jan 2023 - Mar 2023 (3 months)",
+      "details": [
+        "Conducted data quality monitoring using Great Expectations to identify and resolve issues, resulting in a 20% reduction in errors.",
+        "Collaborated with the data engineering team to develop metadata management scripts, ensuring seamless data lineage tracking.",
+        "Worked closely with the compliance team to implement data governance policies, ensuring adherence to industry standards (e.g., GDPR).",
+        "Developed and maintained documentation of data quality metrics, providing actionable insights for business stakeholders."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "Indian Institute of Technology Bombay",
+    "year": "2021-2023"
+  },
+  "skills": [
+    "Data Governance",
+    "Great Expectations",
+    "Metadata Management",
+    "Data Quality Monitoring",
+    "SQL",
+    "Python"
+  ],
+  "certifications": ["Certified Data Governance Professional (CDGP)", "Certified Associate in Data Science (CADS)"]
+}
+```
+
+Note: The candidate's actual information and experiences are fictional, but the resume is designed to be highly realistic and original.
+

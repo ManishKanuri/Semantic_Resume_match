@@ -1,0 +1,43 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of reinforcement learning:
+
+```
+{
+  "name": "Rohan Kumar",
+  "email": "rohan.kumar@email.com",
+  "phone": "+91-1234567890",
+  "linkedin": "https://www.linkedin.com/in/rohan-kumar/",
+  "summary": "Highly motivated and detail-oriented reinforcement learning enthusiast with strong academic background and hands-on experience in Q-learning, policy gradients, multi-armed bandits, and reward modeling. Proficient in OpenAI Gym environments and eager to apply skills in real-world applications.",
+  "experience": [
+    {
+      "title": "Research Intern",
+      "company": "IIT Delhi",
+      "duration": "Jan 2022 - Apr 2022 (4 months)",
+      "details": [
+        "Implemented Q-learning algorithm for solving a classic control problem using OpenAI Gym's CartPole environment.",
+        "Collaborated with the research team to design and test various reinforcement learning models for optimizing system performance.",
+        "Utilized Python libraries like NumPy, Pandas, and Matplotlib for data analysis and visualization."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Artificial Intelligence",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2020-2022"
+  },
+  "skills": [
+    "Python",
+    "OpenAI Gym",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "Q-learning",
+    "Policy Gradients",
+    "Multi-Armed Bandits",
+    "Reward Modeling"
+  ],
+  "certifications": []
+}
+```
+
+This resume showcases Rohan Kumar's research internship experience at IIT Delhi, where he applied his skills in reinforcement learning to solve a classic control problem using OpenAI Gym. The education section highlights his Master of Science degree in Artificial Intelligence from IIT Delhi. The skills section lists the various tools and technologies Rohan has worked with during his academic projects and research work.
+

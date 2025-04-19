@@ -1,0 +1,34 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of data analytics:
+
+```json
+{
+  "name": "Riya Jain",
+  "email": "riya.jain@gmail.com",
+  "phone": "+91-9876543210",
+  "linkedin": "https://www.linkedin.com/in/riya-jain-123456789/",
+  "summary": "Recent data analytics graduate with a strong academic background and hands-on experience in exploratory data analysis, pandas, SQL, KPI dashboards, hypothesis testing, and stakeholder reporting. Proficient in working with large datasets to drive business insights and improve decision-making processes.",
+  "experience": [
+    {
+      "title": "Data Analytics Intern",
+      "company": "ABC Corporation",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Conducted exploratory data analysis on a dataset of 10,000 customer transactions to identify trends and patterns.",
+        "Used pandas to perform data cleaning, preprocessing, and visualization tasks, resulting in a 25% reduction in missing values.",
+        "Developed KPI dashboards using Tableau to present key performance metrics to stakeholders, leading to a 15% increase in team productivity.",
+        "Worked with the business intelligence team to design and implement hypothesis testing experiments, improving forecasting accuracy by 10%."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Data Analytics",
+    "institution": "University of Delhi",
+    "year": "2022"
+  },
+  "skills": ["pandas", "SQL", "Tableau", "KPI dashboards", "Hypothesis testing"],
+  "certifications": ["Google Analytics Certification"]
+}
+```
+
+Note: Since the candidate is a fresher, I have included only one main internship role and highlighted their academic projects, assistantships, and certifications. The bullet points are specific with tools used, outcomes achieved, impact, team collaboration, and technologies.
+

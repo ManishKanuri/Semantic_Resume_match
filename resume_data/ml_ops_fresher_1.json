@@ -1,0 +1,34 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of ML Ops:
+
+```json
+{
+  "name": "Shreya Singh",
+  "email": "shreya.singh@example.com",
+  "phone": "+91 9876543210",
+  "linkedin": "www.linkedin.com/in/shreyasingh/",
+  "summary": "A highly motivated and detail-oriented ML Ops fresher with a strong academic background in Computer Science. Proficient in model deployment, versioning, CI/CD for ML, Docker, MLflow, SageMaker, and production model monitoring.",
+  "experience": [
+    {
+      "title": "Machine Learning Intern",
+      "company": "IntelliSense Technologies Pvt Ltd",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Assisted in the deployment of a convolutional neural network-based image classification model using SageMaker",
+        "Worked on implementing CI/CD pipeline for ML models using AWS CodePipeline and GitHub",
+        "Collaborated with the data science team to monitor production model performance using Prometheus and Grafana",
+        "Analyzed and optimized model performance metrics, achieving a 15% improvement in accuracy"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology (BTech) in Computer Science",
+    "institution": "National Institute of Technology (NIT), Warangal",
+    "year": "2022"
+  },
+  "skills": ["Python", "Java", "Docker", "MLflow", "SageMaker", "AWS CodePipeline", "GitHub", "Prometheus", "Grafana"],
+  "certifications": ["Certified Associate in Python Programming (CAP)", "Machine Learning with TensorFlow Certification"]
+}
+```
+
+This candidate has a strong academic background and has worked on some impressive projects during their internship. They have hands-on experience with ML Ops tools like SageMaker, MLflow, and Docker, and have demonstrated their ability to collaborate with teams and analyze model performance metrics.
+

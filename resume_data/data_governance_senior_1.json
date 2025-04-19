@@ -1,0 +1,66 @@
+Here is a highly realistic and original resume for a senior candidate in the field of data governance:
+
+```
+{
+  "name": "Rahul Agarwal",
+  "email": "ragarwal@email.com",
+  "phone": "+1 (555) 123-4567",
+  "linkedin": "www.linkedin.com/in/rahularagarwal",
+  "summary": "Results-driven data governance leader with over 10 years of experience in designing and implementing end-to-end data quality, metadata management, and compliance frameworks. Skilled in Great Expectations, lineage tracking, and collaborative leadership.",
+  "experience": [
+    {
+      "title": "Senior Data Governance Architect",
+      "company": "Global Financial Services Company",
+      "duration": "2018-2022",
+      "details": [
+        "Designed and implemented a data quality monitoring framework using Great Expectations, resulting in a 30% reduction in data errors.",
+        "Led a cross-functional team to develop a metadata management solution for a large-scale data warehouse, improving data discovery by 25%.",
+        "Collaborated with compliance teams to implement a data governance framework compliant with FINRA and SEC regulations.",
+        "Developed and executed a strategic plan for data quality improvement, resulting in a 20% increase in data trustworthiness.",
+        "Mentored junior team members on data governance best practices and tool usage (Great Expectations, OpenRefine).",
+        "Worked closely with stakeholders to identify business requirements and design solutions that met their needs.",
+        "Conducted regular status updates and provided actionable insights to executive leadership."
+      ]
+    },
+    {
+      "title": "Data Governance Manager",
+      "company": "Healthcare Services Company",
+      "duration": "2015-2018",
+      "details": [
+        "Managed a team of 5 data governance analysts, providing guidance on data quality monitoring and metadata management best practices.",
+        "Developed and implemented a data lineage tracking framework using Great Expectations, improving data trustworthiness by 15%.",
+        "Collaborated with IT teams to develop a data governance roadmap, aligning data governance initiatives with business objectives.",
+        "Conducted regular audits of data quality and metadata management processes, identifying areas for improvement."
+      ]
+    },
+    {
+      "title": "Data Architect",
+      "company": "Technology Consulting Firm",
+      "duration": "2010-2015",
+      "details": [
+        "Designed and implemented a data warehouse solution for a major retail client, improving business intelligence reporting by 40%.",
+        "Developed and executed a data governance framework for a large-scale data migration project, ensuring compliance with industry regulations."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Information Systems",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2009"
+  },
+  "skills": [
+    "Great Expectations",
+    "Metadata management (Excel, Oracle)",
+    "Data quality monitoring",
+    "Lineage tracking",
+    "Compliance frameworks (FINRA, SEC)",
+    "Collaborative leadership and mentoring",
+    "Data governance best practices",
+    "SQL (Oracle, MySQL)"
+  ],
+  "certifications": []
+}
+```
+
+Please note that I've used fictional details for the candidate's experience, education, and skills. This resume is designed to showcase the senior candidate's experience in data governance, with a focus on leadership, architecture design, and strategic delivery.
+

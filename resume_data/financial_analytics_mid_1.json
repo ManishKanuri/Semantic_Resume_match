@@ -1,0 +1,60 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of financial analytics:
+
+```
+{
+  "name": "Aarav Kumar",
+  "email": "aarav.kumar@gmail.com",
+  "phone": "0123456789",
+  "linkedin": "in.linkedin.com/in/aaravkumar",
+  "summary": "Results-driven Financial Analyst with 3+ years of experience in credit risk modeling, fraud detection, financial forecasting, loan scoring, and investment optimization. Skilled in end-to-end system building and proficient in a range of analytical tools.",
+  "experience": [
+    {
+      "title": "Senior Analyst",
+      "company": "Citigroup Risk Management",
+      "duration": "2020-2022",
+      "details": [
+        "Developed and implemented credit risk models using Python and R to reduce loan defaults by 12%",
+        "Collaborated with cross-functional teams to design and deploy fraud detection algorithms, resulting in a 20% reduction in fraudulent transactions",
+        "Created financial forecasts for portfolio companies, leveraging expertise in Excel and Tableau",
+        "Optimized investment portfolios using regression analysis and Monte Carlo simulations, achieving an average return of 8%",
+        "Worked closely with stakeholders to identify and mitigate credit risk exposure, ensuring compliance with regulatory requirements",
+        "Developed and maintained a data warehouse using MySQL and Power BI for enhanced analytics and reporting",
+        "Contributed to the development of a loan scoring model that improved accuracy by 15% through machine learning algorithms",
+        "Participated in code reviews and provided feedback on coding best practices, contributing to team efficiency"
+      ]
+    },
+    {
+      "title": "Financial Analyst",
+      "company": "JPMorgan Chase Investment Banking",
+      "duration": "2018-2020",
+      "details": [
+        "Built financial models using Excel and Access to analyze merger and acquisition opportunities",
+        "Analyzed customer data to identify trends and patterns, informing investment decisions",
+        "Developed a dashboard in Power BI to visualize portfolio performance metrics for senior management",
+        "Collaborated with traders to optimize hedging strategies and reduce risk exposure",
+        "Assisted in the development of an EBITDA multiple model using Python, achieving an accuracy rate of 85%"
+      ]
+    },
+    {
+      "title": "Financial Modeling Intern",
+      "company": "Morgan Stanley Wealth Management",
+      "duration": "Summer 2017",
+      "details": [
+        "Assisted in building financial models for investment opportunities, utilizing Excel and Access",
+        "Analyzed customer data to identify trends and patterns, informing investment decisions",
+        "Developed a basic dashboard in Power BI to visualize portfolio performance metrics"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Finance",
+    "institution": "New York University",
+    "year": "2018-2020"
+  },
+  "skills": ["Python", "R", "Excel", "Power BI", "Tableau", "MySQL", "PowerPoint"],
+  "certifications": []
+}
+```
+
+Note: The resume is written in a format that is easily readable and contains relevant details for a mid-candidate in the field of financial analytics.
+

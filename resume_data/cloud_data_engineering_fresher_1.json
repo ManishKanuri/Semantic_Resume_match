@@ -1,0 +1,43 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of cloud data engineering:
+
+```json
+{
+  "name": "Rohan Kumar",
+  "email": "rohan.kumar93@gmail.com",
+  "phone": "+91-1234567890",
+  "linkedin": "https://www.linkedin.com/in/rohan-kumar/",
+  "summary": "Highly motivated and detail-oriented cloud data engineer with a strong academic background in computer science. Proficient in cloud-native design, AWS, GCP, and Azure Synapse. Proven ability to work effectively in team environments and deliver high-quality results.",
+  "experience": [
+    {
+      "title": "Cloud Data Engineering Intern",
+      "company": "DataGenomics Inc.",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Designed and developed a cloud-native data pipeline using AWS Glue, Redshift, and Apache NiFi to process genomic data from public databases",
+        "Worked closely with the data science team to integrate the pipeline with machine learning models for disease prediction",
+        "Collaborated with cross-functional teams to troubleshoot issues and optimize pipeline performance"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2022"
+  },
+  "skills": [
+    "Cloud-native design",
+    "AWS Glue, Redshift, S3",
+    "GCP BigQuery, Dataflow, Cloud Storage",
+    "Azure Synapse Analytics, Azure Databricks",
+    "Python, SQL, pandas, NumPy",
+    "Data engineering, data science"
+  ],
+  "certifications": [
+    "Google Cloud Certified - Professional Data Engineer",
+    "AWS Certified Developer - Associate"
+  ]
+}
+```
+
+Note: The experience section highlights Rohan's internship at DataGenomics Inc. where he designed and developed a cloud-native data pipeline using AWS Glue, Redshift, and Apache NiFi. He also worked closely with the data science team to integrate the pipeline with machine learning models for disease prediction.
+
