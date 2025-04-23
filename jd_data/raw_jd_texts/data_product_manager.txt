@@ -1,0 +1,15 @@
+Job Title: Data Product Manager
+Location: Hybrid – Boston / Remote
+Experience Required: 2–5 Years
+Role Overview:
+We are looking for a Data Product Manager to lead strategy, development, and delivery of data-centric products. You will work closely with engineers, analysts, and stakeholders to turn business needs into actionable data solutions.
+Responsibilities:
+Define data product vision, roadmap, and KPIs
+Collaborate with data engineers and analysts to deliver dashboards, APIs, and models
+Own backlog and translate business problems into technical requirements
+Lead adoption and user enablement for new data solutions
+Skills Required:
+2+ years in product management, preferably in a data-heavy role
+Strong understanding of data pipelines, analytics, and visualization tools
+Experience with tools like SQL, Looker, Tableau, or dbt
+Clear communication skills to interface with both technical and business teams

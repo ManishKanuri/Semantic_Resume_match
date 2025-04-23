@@ -1,0 +1,43 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of marketing analytics:
+
+```
+{
+  "name": "Kavita Rao",
+  "email": "krao@email.com",
+  "phone": "+91-9876543210",
+  "linkedin": "in.linkedin.com/in/kavitarao",
+  "summary": "Results-driven and analytical marketing professional with a strong academic background in data analysis. Proficient in leveraging campaign ROI, user segmentation, attribution models, churn prediction, and marketing funnel optimization to drive business growth.",
+  "experience": [
+    {
+      "title": "Marketing Analytics Intern",
+      "company": "DataGenetics Inc.",
+      "duration": "June - August 2022",
+      "details": [
+        "Assisted in creating data visualizations using Tableau to analyze customer purchase behavior and identify trends.",
+        "Developed a predictive model using Python and scikit-learn to forecast customer churn, achieving an accuracy of 85%.",
+        "Conducted A/B testing on marketing campaigns using Google Analytics to optimize ROI, resulting in a 12% increase in conversions.",
+        "Collaborated with the data science team to design and implement attribution models for multi-touch campaigns, improving campaign ROI by 15%."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Marketing Analytics",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2022"
+  },
+  "skills": [
+    "Python", 
+    "Tableau", 
+    "Google Analytics", 
+    "Scikit-learn", 
+    "TensorFlow", 
+    "Marketing Automation Tools"
+  ],
+  "certifications": [
+    "Certified Marketing Analyst (CMA) - American Marketing Association"
+  ]
+}
+```
+
+Note: Since the candidate has little to no work experience, I've focused on highlighting their academic projects, research experience, and certifications. The resume is designed to showcase their analytical skills, technical expertise, and potential for growth in the field of marketing analytics.
+

@@ -1,0 +1,39 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of time series:
+
+```
+{
+  "name": "Aarav Kumar",
+  "email": "aarav.kumar@freshers.com",
+  "phone": "+91 9876543210",
+  "linkedin": "https://www.linkedin.com/in/aaravkumar",
+  "summary": "Highly motivated and detail-oriented time series analytics professional with a strong academic background and hands-on experience in forecasting, anomaly detection, and seasonal decomposition using ARIMA, LSTM, Prophet, and Python.",
+  "experience": [
+    {
+      "title": "Research Intern, Time Series Analysis",
+      "company": "IIT Delhi Research Center for Artificial Intelligence (RCAI)",
+      "duration": "Jan - Jun 2022",
+      "details": [
+        "Conducted exploratory data analysis on a dataset of daily stock prices using Pandas and Matplotlib to identify trends and patterns.",
+        "Built and trained an ARIMA model using Python's statsmodels library to forecast future stock prices with an MAPE of 5.23%.",
+        "Collaborated with the research team to design and implement a Prophet-based predictive maintenance system for industrial equipment.",
+        "Utilized Jupyter Notebooks to visualize and communicate insights to stakeholders."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "Indian Institute of Technology, Delhi (IIT-Delhi)",
+    "year": "2022"
+  },
+  "skills": [
+    "Time series forecasting using ARIMA, LSTM, and Prophet",
+    "Python programming with Pandas, NumPy, and Matplotlib",
+    "Data visualization with Jupyter Notebooks and Plotly",
+    "Anomaly detection and seasonal decomposition"
+  ],
+  "certifications": []
+}
+```
+
+Note: The certifications section is empty since the candidate does not have any relevant certifications yet.
+

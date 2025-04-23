@@ -1,0 +1,15 @@
+Job Title: Lead Data Scientist – Healthcare Analytics
+Location: New York, NY or Remote (US-based)
+Experience Required: 6+ Years
+Role Overview:
+You will lead health data analytics initiatives, uncovering insights from patient, clinical, and insurance data. This role involves mentoring a small team and delivering analytical solutions to improve outcomes and reduce costs.
+Responsibilities:
+Analyze EHR, claims, and lab data using advanced statistical and ML methods
+Guide analytical roadmap for health outcomes and patient segmentation
+Collaborate with clinical stakeholders and healthcare domain experts
+Ensure HIPAA-compliant handling and governance of sensitive health data
+Required Skills:
+6+ years in healthcare analytics or health data science
+Strong in Python/R, SQL, Spark, and healthcare data standards (HL7, FHIR)
+Experience with predictive modeling, survival analysis, cohort analysis
+Leadership experience in managing data science teams is a plus

@@ -1,0 +1,63 @@
+Here is a highly realistic and original resume for a mid candidate in the field of cloud data engineering:
+
+```
+{
+  "name": "Kavita Agrawal",
+  "email": "kavita.agrawal@clouddataengineer.com",
+  "phone": "+1 (555) 123-4567",
+  "linkedin": "https://www.linkedin.com/in/kavitaa/",
+
+  "summary": "Cloud data engineering expert with a passion for designing and developing scalable, secure, and efficient cloud-native data solutions. Proficient in AWS, GCP, Azure, and DataOps best practices. Strong team player with excellent communication and collaboration skills.",
+
+  "experience": [
+    {
+      "title": "Senior Cloud Data Engineer",
+      "company": "Cloud Data Engineering Co.",
+      "duration": "2020-2023",
+      "details": [
+        "Designed and developed a cloud-native data pipeline using AWS Glue, Amazon Redshift, and Apache NiFi to process 10 billion rows of customer data, resulting in a 30% reduction in processing time and a 25% increase in data quality.",
+        "Collaborated with cross-functional teams to implement DataOps best practices, including version control using Git, CI/CD pipelines using Jenkins, and automated testing using Pytest.",
+        "Built and maintained multiple BigQuery datasets for a Fortune 500 company, ensuring high performance, scalability, and data freshness through continuous monitoring and optimization.",
+        "Developed and deployed a cloud-native data warehouse on GCP Cloud Dataproc, utilizing Spark, Hive, and Presto to query large datasets and provide real-time insights to stakeholders.",
+        "Worked closely with the data science team to develop predictive models using TensorFlow and PyTorch, leveraging cloud-based GPU acceleration for faster model training and deployment.",
+        "Participated in code reviews, ensured adherence to coding standards, and mentored junior engineers to improve overall team performance and efficiency.",
+        "Managed multiple projects simultaneously, prioritized tasks based on business objectives, and delivered high-quality results within tight deadlines."
+      ]
+    },
+    {
+      "title": "Cloud Data Engineer",
+      "company": "TechCorp Inc.",
+      "duration": "2018-2020",
+      "details": [
+        "Built a cloud-based data mart using Azure Synapse Analytics to support business intelligence and reporting, achieving a 40% reduction in query latency and a 20% increase in data freshness.",
+        "Developed ETL pipelines using AWS Glue and Amazon Redshift to integrate data from multiple sources, including relational databases, flat files, and APIs.",
+        "Worked with the data science team to develop machine learning models using scikit-learn and TensorFlow, leveraging cloud-based GPU acceleration for faster model training and deployment.",
+        "Collaborated with the DevOps team to implement automated testing using Pytest and continuous integration using Jenkins, ensuring high-quality code deployments."
+      ]
+    },
+    {
+      "title": "Data Engineering Intern",
+      "company": "Cloud Data Insights Inc.",
+      "duration": "Summer 2017",
+      "details": [
+        "Assisted in designing and developing a cloud-based data warehouse on AWS Redshift for a retail client, utilizing ETL pipelines and business intelligence tools to support data-driven decision-making.",
+        "Worked closely with the data science team to develop predictive models using scikit-learn and TensorFlow, leveraging cloud-based GPU acceleration for faster model training and deployment."
+      ]
+    }
+  ],
+
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "University of California, Berkeley",
+    "year": "2018"
+  },
+
+  "skills": [
+    "AWS Glue, Amazon Redshift, Apache NiFi, BigQuery, Cloud Dataproc, TensorFlow, PyTorch, scikit-learn",
+    "GCP Dataflow, Apache Beam, Presto, Hive, Spark",
+    "Azure Synapse Analytics, Azure Databricks, Power BI"
+  ],
+  "certifications": ["AWS Certified Data Engineer - Specialty"]
+}
+```
+

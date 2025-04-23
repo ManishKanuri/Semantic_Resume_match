@@ -1,0 +1,41 @@
+Job Title: Senior Computer Vision Engineer – Visualization Focus
+Location: Hybrid (Bangalore or Remote, India)
+Experience Required: 4+ Years
+Department: AI/Analytics
+
+About the Role:
+We are looking for an experienced Senior Computer Vision Engineer with strong data storytelling and visualization skills to join our growing AI team. You will lead the development of intelligent vision systems and bring insights to life with compelling visual analytics for key business and research applications.
+
+You'll work on exciting projects involving image and video analysis, and collaborate with stakeholders to turn data outputs into actionable dashboards using tools like Plotly, D3.js, and Power BI.
+
+Key Responsibilities:
+- Lead end-to-end development of computer vision pipelines (image preprocessing, object detection, classification, segmentation)
+- Build custom CNN/YOLO-based architectures for video streams and image data
+- Design visual dashboards that explain vision system outputs and model performance
+- Collaborate with product and business teams to visualize insights from vision-based metrics
+- Work on OCR, facial detection, and real-time object tracking systems
+- Ensure scalable deployment of models via APIs or streaming pipelines
+- Contribute to data governance for labeling, annotation quality, and pipeline reliability
+- Create reusable libraries for feature extraction, annotation visualization, and logging
+- Document and communicate model results clearly to non-technical stakeholders
+
+Required Skills & Qualifications:
+- Bachelor's or Master's in Computer Science, Electrical Engineering, Data Science, or related
+- 4+ years of hands-on experience in CV and/or AI/ML systems
+- Solid understanding of CNNs, YOLO, OpenCV, PyTorch or TensorFlow
+- Experience deploying vision models into production environments (Docker, REST APIs)
+- Strong proficiency in Python, Pandas, Matplotlib, Plotly, and Dash or Streamlit
+- Proven ability to create real-time visualizations or dashboards from CV systems
+- Experience working with large image/video datasets
+- Familiarity with data annotation tools (CVAT, Label Studio, etc.)
+
+Nice-to-Have:
+- D3.js, Tableau, Power BI integration experience
+- Edge deployment (NVIDIA Jetson, Coral)
+- GANs or image generation pipeline experience
+- Kubernetes or MLflow for model deployment
+
+Certifications (Preferred but not required):
+- TensorFlow Developer Certificate
+- Microsoft Data Analyst Associate
+- AWS Certified Machine Learning – Specialty

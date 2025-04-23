@@ -1,0 +1,33 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of GenAI:
+
+```
+{
+  "name": "Ritwik Chatterjee",
+  "email": "ritwikchatterjee@gmail.com",
+  "phone": "+91-9876543210",
+  "linkedin": "https://www.linkedin.com/in/ritwikchatterjee/",
+  "summary": "Highly motivated and detail-oriented GenAI enthusiast with a strong academic background in Natural Language Processing. Proficient in fine-tuning LLMs, prompt engineering, and leveraging vector databases for transformer-based models like GPT and LLaMA.",
+  "experience": [
+    {
+      "title": "Research Intern",
+      "company": "Cognitive AI Research Lab, IIT Delhi",
+      "duration": "June - August 2022",
+      "details": [
+        "Assisted in fine-tuning a pre-trained language model using prompt engineering techniques, resulting in an improvement of 12% in task-specific performance.",
+        "Collaborated with the research team to design and implement experiments for evaluating transformer-based models on various NLP tasks.",
+        "Utilized vector databases (e.g., GloVe) to enhance the performance of GPT-3 on downstream tasks."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "Indian Institute of Technology (IIT), Delhi",
+    "year": "2022"
+  },
+  "skills": ["GenAI", "LLM fine-tuning", "Prompt engineering", "LangChain", "Vector databases", "Transformers (GPT, LLaMA)", "Python"],
+  "certifications": []
+}
+```
+
+Note: As this is a fresher candidate's resume, I've focused on highlighting their research experience and skills in GenAI. For mid-level or senior candidates, the experience section would typically include multiple job roles with more detailed bullet points.
+

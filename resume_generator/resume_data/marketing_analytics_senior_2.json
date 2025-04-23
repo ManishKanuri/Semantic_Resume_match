@@ -1,0 +1,66 @@
+Here is a highly realistic and original resume for a senior candidate in the field of marketing analytics:
+
+```
+{
+  "name": "Riya Jain",
+  "email": "rijain@email.com",
+  "phone": "(555) 123-4567",
+  "linkedin": "https://www.linkedin.com/in/riyajain/",
+  "summary": "Results-driven Marketing Analytics Leader with over 10 years of experience in campaign ROI optimization, user segmentation, and attribution modeling. Proven track record of delivering strategic insights that drive business growth. Skilled in leadership, architecture design, and cross-team collaboration.",
+  "experience": [
+    {
+      "title": "Senior Director, Marketing Analytics",
+      "company": "Acme Corporation",
+      "duration": "2018-2022",
+      "details": [
+        "Designed and implemented a comprehensive marketing attribution model using Mixpanel and Google Analytics, resulting in a 25% increase in campaign ROI",
+        "Led a team of data analysts to develop and deploy user segmentation models using Python and scikit-learn, leading to a 30% improvement in customer engagement",
+        "Collaborated with cross-functional teams to optimize marketing funnels, reducing churn by 20% and increasing conversion rates by 15%",
+        "Mentored junior team members in data visualization best practices using Tableau and Power BI, resulting in improved reporting and decision-making",
+        "Developed and presented key findings and recommendations to executive stakeholders, driving strategic business decisions"
+      ]
+    },
+    {
+      "title": "Manager, Marketing Analytics",
+      "company": "XYZ Inc.",
+      "duration": "2015-2018",
+      "details": [
+        "Designed and implemented a campaign ROI tracking system using Excel and SQL, resulting in a 10% reduction in marketing spend",
+        "Worked with data scientists to develop predictive models for customer churn prediction using R and H2O.ai, achieving an accuracy rate of 85%",
+        "Collaborated with the product team to develop targeted marketing campaigns based on user segmentation insights, leading to a 20% increase in sales"
+      ]
+    },
+    {
+      "title": "Senior Data Analyst",
+      "company": "ABC Company",
+      "duration": "2012-2015",
+      "details": [
+        "Developed and maintained dashboards using Tableau to track marketing performance metrics, providing real-time insights to stakeholders",
+        "Worked with the business intelligence team to design and implement data warehousing solutions using Microsoft SQL Server"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Marketing Analytics",
+    "institution": "University of California, Berkeley",
+    "year": "2012"
+  },
+  "skills": [
+    "Marketing analytics",
+    "Campaign ROI optimization",
+    "User segmentation",
+    "Attribution modeling",
+    "Python",
+    "R",
+    "SQL",
+    "Tableau",
+    "Power BI",
+    "Mixpanel",
+    "Google Analytics"
+  ],
+  "certifications": []
+}
+```
+
+Please note that the certifications section is empty as there are no certifications mentioned in this candidate's profile.
+

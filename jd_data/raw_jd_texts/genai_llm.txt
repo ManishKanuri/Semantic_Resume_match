@@ -1,0 +1,17 @@
+Job Title: AI Research Engineer – Generative Models & LLMs
+Location: Remote (Global)
+Department: Applied AI
+Experience Required: 0–2 Years
+About the Role:
+We are looking for a passionate AI Engineer to work on state-of-the-art Generative AI (GenAI) and LLM-based solutions. This role involves fine-tuning foundation models, designing multi-modal pipelines, and implementing prompt engineering strategies to solve real-world problems.
+Responsibilities:
+Fine-tune transformer-based LLMs on domain-specific data
+Develop RAG pipelines using vector databases (e.g., FAISS, Weaviate)
+Implement prompt engineering techniques for chatbots and assistants
+Collaborate with researchers to benchmark LLM performance
+Contribute to scalable GenAI infrastructure (FastAPI, LangChain, Ollama)
+Required Skills:
+Python, PyTorch/TensorFlow, Hugging Face Transformers
+Understanding of attention mechanisms, embeddings, tokenization
+Knowledge of prompt tuning, retrieval-augmented generation (RAG), LangChain
+Familiarity with GenAI tools like LLaMA, Mistral, Claude, GP

@@ -1,0 +1,69 @@
+Here is a highly realistic and original resume for a mid candidate in the field of big data:
+
+```
+{
+  "name": "Rahul Jain",
+  "email": "rahul.jain@bigdata.expert",
+  "phone": "123-456-7890",
+  "linkedin": "https://www.linkedin.com/in/rahuljain/",
+  "summary": "Highly motivated and detail-oriented big data engineer with 3+ years of experience in designing, developing, and deploying scalable data pipelines using Spark, Hadoop, Hive, Presto, and other big data tools. Proven track record of successfully delivering high-volume data transformation projects on time and within budget.",
+  "experience": [
+    {
+      "title": "Senior Big Data Engineer",
+      "company": "TechCorp Inc.",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and developed a scalable data pipeline using Spark, Hadoop, and Hive to process and transform 10 TB of customer data for predictive analytics",
+        "Collaborated with cross-functional teams to integrate big data solutions with existing applications and services",
+        "Developed and maintained multiple Presto queries to support real-time reporting and business intelligence",
+        "Worked closely with data scientists to develop and deploy machine learning models using Spark MLlib",
+        "Optimized data processing workflows by 30% through automation and parallelization",
+        "Managed a team of junior engineers to ensure timely delivery of projects and provided mentorship and guidance as needed",
+        "Co-authored an internal paper on 'Best Practices for Big Data Pipelines' that was presented at company-wide conference"
+      ]
+    },
+    {
+      "title": "Big Data Engineer",
+      "company": "Fintech Inc.",
+      "duration": "2018-2020",
+      "details": [
+        "Built and maintained a batch data processing pipeline using Spark and Hadoop to process 1 TB of financial transactions daily",
+        "Developed and deployed multiple Hive queries to support real-time reporting and business intelligence for senior leadership",
+        "Collaborated with data scientists to develop and deploy machine learning models using Spark MLlib for credit risk assessment",
+        "Optimized data processing workflows by 20% through automation and parallelization",
+        "Worked closely with DevOps team to ensure smooth deployment of big data solutions"
+      ]
+    },
+    {
+      "title": "Junior Big Data Engineer",
+      "company": "StartUp Inc.",
+      "duration": "2016-2018",
+      "details": [
+        "Assisted in building and maintaining a Spark-based data processing pipeline for real-time analytics",
+        "Developed and deployed multiple Hive queries to support reporting and business intelligence",
+        "Collaborated with junior engineers on small-scale data projects"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2016"
+  },
+  "skills": [
+    "Spark",
+    "Hadoop",
+    "Hive",
+    "Presto",
+    "Batch and Streaming Data Processing",
+    "High-Volume Data Transformation",
+    "Python",
+    "Java",
+    "SQL"
+  ],
+  "certifications": []
+}
+```
+
+Note: I've used realistic but fake information for the candidate's contact details, education, and certifications. The experience section is designed to showcase a mid-level candidate with 3+ years of hands-on experience in big data.
+

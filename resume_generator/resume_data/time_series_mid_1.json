@@ -1,0 +1,54 @@
+Here is a highly realistic and original resume for a mid candidate in the field of time series:
+
+```
+{
+  "name": "Rahul Kumar",
+  "email": "rahulkumar@email.com",
+  "phone": "+91-9900001234",
+  "linkedin": "in.linkedin.com/in/rahulkanum",
+  "summary": "Dedicated and detail-oriented Time Series Analyst with 3+ years of experience in building predictive models, analyzing trends, and detecting anomalies. Proficient in ARIMA, LSTM, Prophet, trend analysis, seasonal decomposition, and anomaly detection.",
+  "experience": [
+    {
+      "title": "Senior Time Series Analyst",
+      "company": "Acme Analytics Inc.",
+      "duration": "2020-2023",
+      "details": [
+        "Designed and implemented a real-time time series forecasting model using ARIMA to predict sales trends, resulting in a 15% reduction in inventory costs",
+        "Developed an LSTM-based model for anomaly detection in IoT sensor data, achieving a 95% accuracy rate",
+        "Collaborated with cross-functional teams to integrate machine learning models into existing systems, ensuring seamless integration and minimal downtime",
+        "Utilized Prophet for automated forecasting and trend analysis, reducing manual intervention by 30%",
+        "Conducted exploratory data analysis on large datasets to identify trends, patterns, and correlations, informing business decisions"
+      ]
+    },
+    {
+      "title": "Time Series Analyst",
+      "company": "Beta Insights LLC.",
+      "duration": "2018-2020",
+      "details": [
+        "Built a seasonal decomposition model using Python libraries (statsmodels) to analyze and forecast quarterly sales, resulting in a 12% increase in accuracy",
+        "Developed an anomaly detection framework using statistical process control techniques (Shewhart chart) for monitoring manufacturing processes"
+      ]
+    },
+    {
+      "title": "Junior Data Analyst Intern",
+      "company": "Gamma Analytics Inc.",
+      "duration": "Summer 2017",
+      "details": [
+        "Assisted in data wrangling and preprocessing using Pandas, NumPy, and Matplotlib for a time series forecasting project"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of California, Berkeley",
+    "year": "2018-2020"
+  },
+  "skills": [
+    "ARIMA", "LSTM", "Prophet", "Trend Analysis", "Seasonal Decomposition", "Anomaly Detection", "Python (Pandas, NumPy, Matplotlib)", "R (statsmodels)"
+  ],
+  "certifications": []
+}
+```
+
+Please note that this is just an example and you should customize your resume to fit your own experiences and style.
+

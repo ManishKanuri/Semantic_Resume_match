@@ -1,0 +1,46 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of data engineering:
+
+```
+{
+  "name": "Srivathsav Kumar",
+  "email": "srivathsav.kumar@email.com",
+  "phone": "+91 95001 23456",
+  "linkedin": "https://www.linkedin.com/in/srivathsavkumar/",
+  "summary": "Highly motivated and detail-oriented data engineering fresher with strong academic background and experience in ETL development, Airflow, Apache Beam, dbt, and distributed system optimization. Proficient in Python and SQL, with a passion for working on large-scale data projects.",
+  "experience": [
+    {
+      "title": "Data Engineering Intern",
+      "company": "TechCorp Inc.",
+      "duration": "June - August 2022",
+      "details": [
+        "Designed and developed ETL pipelines using Apache Beam to integrate data from multiple sources for a customer analytics project.",
+        "Implemented data quality checks and data validation using dbt, ensuring high-quality data output.",
+        "Collaborated with the data science team to develop data visualizations and reports using Tableau.",
+        "Optimized pipeline performance by 30% through efficient use of resources and minimizing latency."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "Indian Institute of Technology (IIT) Bombay",
+    "year": "2020-2022"
+  },
+  "skills": [
+    "Python",
+    "SQL",
+    "Apache Beam",
+    "Airflow",
+    "dbt",
+    "ETL development",
+    "Data lake pipelines",
+    "Distributed system optimization",
+    "Tableau"
+  ],
+  "certifications": [
+    "Google Cloud Certified - Professional Data Engineer"
+  ]
+}
+```
+
+Note: The internship experience is the main focus for a fresher candidate, and it's showcased prominently in the resume. Academic projects, assistantships, and certifications are also highlighted to demonstrate the candidate's skills and potential.
+

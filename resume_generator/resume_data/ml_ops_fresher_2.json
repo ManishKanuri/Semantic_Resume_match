@@ -1,0 +1,47 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of ML Ops:
+
+```
+{
+  "name": "Aarav Kumar",
+  "email": "aaravkumar@gmail.com",
+  "phone": "+91-9876543210",
+  "linkedin": "https://www.linkedin.com/in/aaravkumar/",
+  "summary": "Highly motivated and detail-oriented ML Ops enthusiast with a strong academic background in Machine Learning. Proficient in deploying, versioning, and monitoring machine learning models using CI/CD pipelines, Docker, MLflow, and SageMaker. Proven ability to work effectively in teams and drive projects forward.",
+  "experience": [
+    {
+      "title": "ML Intern",
+      "company": "AI Labs Inc.",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Designed, developed, and deployed a recommender system using TensorFlow, Docker, and MLflow for a e-commerce platform",
+        "Implemented CI/CD pipelines using GitLab CI/CD and Jenkins to automate model deployment and versioning",
+        "Monitored model performance using SageMaker's monitoring features and optimized hyperparameters for improved accuracy",
+        "Collaborated with the data science team to integrate the recommender system with a production-ready API"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Artificial Intelligence",
+    "institution": "Indian Institute of Technology, Delhi",
+    "year": "2022"
+  },
+  "skills": [
+    "Machine Learning", 
+    "Python", 
+    "Docker", 
+    "MLflow", 
+    "SageMaker", 
+    "CI/CD pipelines", 
+    "GitLab CI/CD", 
+    "Jenkins", 
+    "TensorFlow"
+  ],
+  "certifications": [
+    "Certified Machine Learning Engineer (CMLE)", 
+    "Certified Data Scientist (CDS)"
+  ]
+}
+```
+
+This resume highlights the candidate's internship experience, academic background, and relevant skills in ML Ops. The summary section provides a brief overview of the candidate's motivation and strengths.
+

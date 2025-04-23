@@ -1,0 +1,56 @@
+Here is the generated resume in JSON format:
+
+```
+{
+  "name": "Rishab Vyas",
+  "email": "rishabvyas@genai.com",
+  "phone": "+91-1234567890",
+  "linkedin": "https://www.linkedin.com/in/rishabvyas/",
+  "summary": "Results-driven GenAI leader with 10+ years of experience in architecture design, strategic delivery, and team collaboration. Proven expertise in LLM fine-tuning, prompt engineering, LangChain, vector databases, and transformers like GPT and LLaMA.",
+  "experience": [
+    {
+      "title": "Head of GenAI Research & Development",
+      "company": "GenAI Inc.",
+      "duration": "2020-2022",
+      "details": [
+        "Led a team of 10+ engineers in developing AI-powered language models using LLM fine-tuning and prompt engineering techniques, resulting in 30% improvement in model accuracy.",
+        "Designed and implemented vector databases to accelerate data processing and retrieval for large-scale GenAI applications.",
+        "Collaborated with cross-functional teams to deliver multiple projects, including a successful chatbot integration with a Fortune 500 company.",
+        "Mentored junior engineers in LangChain development, resulting in a 25% increase in project efficiency.",
+        "Worked closely with stakeholders to define and prioritize research initiatives, ensuring alignment with business objectives.",
+        "Developed and maintained technical roadmaps for GenAI product lines, ensuring seamless integration with existing infrastructure.",
+        "Authored and presented research papers at top-tier conferences on AI and language processing."
+      ]
+    },
+    {
+      "title": "Senior AI Architect",
+      "company": "Innovatech Solutions",
+      "duration": "2015-2020",
+      "details": [
+        "Designed and implemented transformer-based language models using GPT and LLaMA, achieving 20% improvement in model performance.",
+        "Collaborated with data scientists to develop custom LangChain solutions for clients, resulting in a 15% increase in project revenue.",
+        "Worked closely with development teams to integrate AI-powered features into existing software products, ensuring seamless integration."
+      ]
+    },
+    {
+      "title": "AI Researcher",
+      "company": "Research Institute of AI",
+      "duration": "2010-2015",
+      "details": [
+        "Conducted research on AI and language processing, publishing multiple papers in top-tier conferences and journals.",
+        "Developed and maintained a dataset for natural language processing, used by industry leaders."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Artificial Intelligence",
+    "institution": "University of California, Berkeley",
+    "year": "2010"
+  },
+  "skills": ["GenAI", "LLM fine-tuning", "prompt engineering", "LangChain", "vector databases", "transformers (GPT, LLaMA)", "leadership", "architecture design", "strategic delivery"],
+  "certifications": []
+}
+```
+
+Please note that this is a fictional candidate and the details are meant to be representative of a senior-level candidate in the field of GenAI.
+

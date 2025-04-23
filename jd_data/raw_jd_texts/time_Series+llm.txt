@@ -1,0 +1,15 @@
+Job Title: Machine Learning Engineer – Time Series & Forecasting
+Location: Pune or Remote
+Experience Required: 2–4 Years
+About the Role:
+We seek a Machine Learning Engineer with strong time-series forecasting skills. You will design pipelines for predictive modeling, anomaly detection, and sensor data processing in a production-grade setup.
+Responsibilities:
+Build time series models (ARIMA, Prophet, LSTM, XGBoost)
+Analyze temporal data trends across domains like IoT, retail, or energy
+Optimize pipelines for batch and real-time inference
+Create visualizations to communicate forecasts and uncertainty
+Skills Required:
+Experience with pandas, NumPy, Scikit-learn, statsmodels
+Deep understanding of time series concepts (stationarity, seasonality)
+Proficiency in Python, SQL, and model serving techniques
+Exposure to MLflow, DVC, or Airflow is a plus

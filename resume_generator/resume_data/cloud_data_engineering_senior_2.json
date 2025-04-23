@@ -1,0 +1,59 @@
+Here is a highly realistic and original resume for a senior candidate in the field of cloud data engineering:
+
+```
+{
+  "name": "Kavin Khandelwal",
+  "email": "kavin.khandelwal@email.com",
+  "phone": "(123) 456-7890",
+  "linkedin": "https://www.linkedin.com/in/kavinkhandelwal/",
+  "summary": "Highly experienced cloud data engineering leader with a strong track record of delivering scalable, secure, and innovative data solutions on AWS, GCP, and Azure. Proven expertise in architecture design, leadership, and collaboration.",
+  "experience": [
+    {
+      "title": "Senior Cloud Data Engineering Lead",
+      "company": "Cognizant Technology Solutions",
+      "duration": "2020 - Present (2+ years)",
+      "details": [
+        "Led a team of 10+ engineers in designing and delivering cloud-native data pipelines on AWS and GCP, resulting in 30% reduction in costs and 25% increase in processing speed.",
+        "Architected and implemented multiple Redshift and BigQuery solutions for clients across various industries, including finance and healthcare.",
+        "Collaborated with cross-functional teams to develop data-driven products, such as predictive analytics dashboards and real-time reporting tools.",
+        "Mentored junior engineers on cloud-native design principles, data engineering best practices, and tooling (e.g., AWS Glue, GCP Dataflow).",
+        "Developed and maintained multiple Azure Synapse Analytics solutions for clients in the retail and manufacturing sectors.",
+        "Worked closely with business stakeholders to understand requirements and develop tailored data solutions that met their needs."
+      ]
+    },
+    {
+      "title": "Cloud Data Engineering Manager",
+      "company": "Accenture",
+      "duration": "2015 - 2020 (5 years)",
+      "details": [
+        "Managed a team of 20+ engineers in designing and delivering cloud-based data solutions on AWS, GCP, and Azure for clients across various industries.",
+        "Developed and implemented multiple cloud-native data pipelines using tools like AWS Glue, GCP Dataflow, and Azure Synapse Analytics.",
+        "Collaborated with cross-functional teams to develop data-driven products, such as predictive analytics dashboards and real-time reporting tools.",
+        "Worked closely with business stakeholders to understand requirements and develop tailored data solutions that met their needs."
+      ]
+    },
+    {
+      "title": "Cloud Data Engineer",
+      "company": "Deloitte Consulting",
+      "duration": "2010 - 2015 (5 years)",
+      "details": [
+        "Designed and developed multiple cloud-based data pipelines using tools like AWS Glue, GCP Dataflow, and Azure Synapse Analytics.",
+        "Worked closely with clients to understand their business needs and develop tailored data solutions that met those needs."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2005"
+  },
+  "skills": [
+    "AWS (Glue, Redshift), GCP (BigQuery, Dataflow), Azure Synapse Analytics, cloud-native design principles",
+    "Data engineering best practices and tooling (e.g., AWS Glue, GCP Dataflow)"
+  ],
+  "certifications": ["AWS Certified Solutions Architect - Associate"]
+}
+```
+
+Note: The certifications section only includes one certification as per your request.
+

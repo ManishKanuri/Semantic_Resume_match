@@ -1,0 +1,7 @@
+{
+  "jd_text": "Job Title: AI Research Engineer \u2013 Generative Models & LLMs\nLocation: Remote (Global)\nDepartment: Applied AI\nExperience Required: 0\u20132 Years\nAbout the Role:\nWe are looking for a passionate AI Engineer to work on state-of-the-art Generative AI (GenAI) and LLM-based solutions. This role involves fine-tuning foundation models, designing multi-modal pipelines, and implementing prompt engineering strategies to solve real-world problems.\nResponsibilities:\nFine-tune transformer-based LLMs on domain-specific data\nDevelop RAG pipelines using vector databases (e.g., FAISS, Weaviate)\nImplement prompt engineering techniques for chatbots and assistants\nCollaborate with researchers to benchmark LLM performance\nContribute to scalable GenAI infrastructure (FastAPI, LangChain, Ollama)\nRequired Skills:\nPython, PyTorch/TensorFlow, Hugging Face Transformers\nUnderstanding of attention mechanisms, embeddings, tokenization\nKnowledge of prompt tuning, retrieval-augmented generation (RAG), LangChain\nFamiliarity with GenAI tools like LLaMA, Mistral, Claude, GP",
+  "min_experience": 0,
+  "max_experience": 2,
+  "education_required": null,
+  "jd_filename": "genai_llm.txt"
+}

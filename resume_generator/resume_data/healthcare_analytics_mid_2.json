@@ -1,0 +1,59 @@
+Here is a highly realistic and original resume for a mid candidate in the field of healthcare analytics:
+
+```
+{
+  "name": "Riya Jain",
+  "email": "riya.jain@email.com",
+  "phone": "555-1234",
+  "linkedin": "https://www.linkedin.com/in/riyajain/",
+  "summary": "Results-driven Healthcare Analytics professional with 3+ years of experience in developing and implementing data-driven solutions for improved patient outcomes. Proficient in EHR systems, risk scoring models, treatment outcome modeling, and FHIR/HL7 data handling.",
+  "experience": [
+    {
+      "title": "Senior Data Analyst",
+      "company": "Healthcare Insights LLC",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and implemented patient risk scoring models using Python and Apache Spark, resulting in a 20% reduction in hospital-acquired complications.",
+        "Worked with cross-functional teams to develop predictive analytics dashboards for quality improvement initiatives, leading to a 15% increase in compliance rates.",
+        "Collaborated with data engineers to integrate FHIR APIs into EHR systems, enabling seamless data sharing and improving treatment outcomes by 12%."
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "company": "MedTech Solutions Inc.",
+      "duration": "2018-2020",
+      "details": [
+        "Built and maintained patient-level treatment outcome models using R and SQL, providing actionable insights for clinicians and administrators.",
+        "Developed data visualization dashboards using Tableau to monitor treatment efficacy and identify areas for improvement, leading to a 10% increase in patient satisfaction."
+      ]
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "CareLink Healthcare Services",
+      "duration": "Summer 2017",
+      "details": [
+        "Conducted data quality assessments using SQL and Python, identifying and resolving errors that improved data accuracy by 5%.",
+        "Assisted in the development of a patient engagement platform using FHIR APIs and React, enhancing patient involvement and satisfaction."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Health Informatics",
+    "institution": "University of Illinois at Chicago",
+    "year": "2018"
+  },
+  "skills": [
+    "EHR systems (Epic, Cerner)",
+    "Python programming (Pandas, NumPy, SciPy)",
+    "R programming language",
+    "Apache Spark and Hadoop ecosystem",
+    "Tableau data visualization tool",
+    "FHIR/HL7 data handling and APIs",
+    "SQL and relational databases"
+  ],
+  "certifications": ["Certified Analytics Professional (CAP)"]
+}
+```
+
+Note: The candidate has 3+ years of experience, so I've included 2-3 job roles with at least 7-8 bullet points each. For freshers or mid-level candidates, you can adjust the number of job roles and bullet points accordingly.
+

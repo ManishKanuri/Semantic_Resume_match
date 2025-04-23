@@ -1,0 +1,33 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of data visualization:
+
+```
+{
+  "name": "Riya Jain",
+  "email": "riyajain123@gmail.com",
+  "phone": "+91 9876543210",
+  "linkedin": "https://www.linkedin.com/in/riya-jain-abc123/",
+  "summary": "Highly motivated and detail-oriented data visualization enthusiast with a strong academic background in Computer Science. Proficient in creating interactive dashboards using Tableau, Power BI, D3.js, Plotly, and storytelling with visual analytics.",
+  "experience": [
+    {
+      "title": "Data Visualization Intern",
+      "company": "Innovate Insights",
+      "duration": "June - August 2022",
+      "details": [
+        "Designed and developed an interactive dashboard using Tableau to visualize customer purchase behavior, resulting in a 25% increase in sales insights for the client.",
+        "Collaborated with a team of three developers to create a web-based application using React and D3.js, showcasing real-time stock market data to investors.",
+        "Utilized Power BI to create a dashboard for analyzing website traffic, identifying trends, and providing actionable recommendations to improve user engagement."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "National Institute of Technology (NIT), Delhi",
+    "year": "2022"
+  },
+  "skills": ["Tableau", "Power BI", "D3.js", "Plotly", "React", "JavaScript"],
+  "certifications": ["Google Analytics Certification"]
+}
+```
+
+Note: The experience section only includes the internship, as this is a fresher candidate. The education section highlights the academic background in Computer Science. The skills and certifications sections showcase the candidate's proficiency in data visualization tools and technologies.
+

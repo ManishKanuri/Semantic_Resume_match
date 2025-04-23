@@ -1,0 +1,34 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of time series:
+
+```
+{
+  "name": "Akshay Kumar",
+  "email": "akshaykumar@email.com",
+  "phone": "+91 98878 56789",
+  "linkedin": "www.linkedin.com/in/akshaykumar123",
+  "summary": "Highly motivated and detail-oriented data scientist with a strong academic background in time series analysis. Proficient in using ARIMA, LSTM, Prophet, trend analysis, anomaly detection, and seasonal decomposition to drive business insights.",
+  "experience": [
+    {
+      "title": "Time Series Intern",
+      "company": "Data Insights Inc.",
+      "duration": "June - August 2022",
+      "details": [
+        "Worked on a project to forecast customer churn using ARIMA models, resulting in an accuracy of 85%",
+        "Developed and implemented a Prophet-based model to predict sales trends for a leading e-commerce company",
+        "Collaborated with the data science team to identify and address anomalies in time series data",
+        "Utilized seasonal decomposition techniques to analyze and visualize quarterly sales patterns"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2022"
+  },
+  "skills": ["Python", "ARIMA", "LSTM", "Prophet", "Trend Analysis", "Anomaly Detection", "Seasonal Decomposition"],
+  "certifications": ["Certificate in Time Series Analysis from IBM Data Science Experience"]
+}
+```
+
+Note: The experience section has a single internship role, with 4-5 bullet points highlighting the candidate's skills and accomplishments. The education section includes the master's degree and institution information.
+

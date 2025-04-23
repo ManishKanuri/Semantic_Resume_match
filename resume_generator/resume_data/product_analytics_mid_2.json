@@ -1,0 +1,54 @@
+Here is a highly realistic and original resume for a mid candidate in the field of product analytics:
+
+```
+{
+  "name": "Riya Chaudhary",
+  "email": "riya.chaudhary98@gmail.com",
+  "phone": "(555) 123-4567",
+  "linkedin": "https://www.linkedin.com/in/riyachaudhary/",
+  "summary": "Results-driven Product Analytics professional with 3+ years of experience in driving business growth through data-informed decisions. Proficient in Mixpanel, Amplitude, and SQL. Proven track record of improving user engagement and retention using A/B testing and customer behavior modeling.",
+  "experience": [
+    {
+      "title": "Senior Data Analyst",
+      "company": "Zapier",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and executed multiple A/B tests to optimize user onboarding, resulting in a 25% increase in free-trial sign-ups.",
+        "Built and maintained complex SQL queries to track key metrics, such as user retention and engagement, using Mixpanel and Amplitude.",
+        "Collaborated with cross-functional teams to develop data-driven insights for product development, influencing the creation of several successful features.",
+        "Created and presented regular analytics reports to stakeholders, showcasing business impact and opportunities for growth.",
+        "Developed and maintained a comprehensive customer behavior modeling framework using SQL and Excel, enabling data-driven decision-making."
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Instacart",
+      "duration": "2018-2020",
+      "details": [
+        "Conducted user funnel analysis to identify areas of improvement for the Instacart shopping app, leading to a 15% increase in customer conversions.",
+        "Designed and executed A/B tests using Mixpanel to optimize email campaigns, resulting in a 20% increase in open rates.",
+        "Built and maintained a dashboard using Amplitude to track key metrics, such as user engagement and retention, for senior leadership."
+      ]
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "Uber",
+      "duration": "Summer 2017",
+      "details": [
+        "Worked with the Data Science team to analyze ride-hailing patterns and identify trends in user behavior using SQL and Python.",
+        "Collaborated with data engineers to develop a scalable data pipeline for storing and processing large datasets."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of California, Berkeley",
+    "year": "2018"
+  },
+  "skills": ["Mixpanel", "Amplitude", "SQL", "Python", "Excel"],
+  "certifications": []
+}
+```
+
+Please note that the information provided is fictional and for demonstration purposes only.
+

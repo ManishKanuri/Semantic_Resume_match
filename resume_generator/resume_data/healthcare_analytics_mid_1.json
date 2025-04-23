@@ -1,0 +1,59 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of healthcare analytics:
+
+```
+{
+  "name": "Aarav Mishra",
+  "email": "aarav.mishra@email.com",
+  "phone": "+1 (123) 456-7890",
+  "linkedin": "www.linkedin.com/in/aaravmishra",
+  "summary": "Results-driven healthcare analytics professional with 3+ years of experience in designing and developing data-driven solutions. Skilled in electronic health records, patient risk scoring, treatment outcome modeling, and FHIR/HL7 data handling.",
+  "experience": [
+    {
+      "title": "Senior Business Intelligence Analyst",
+      "company": "Optum Health Insights",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and developed predictive models for patient risk scoring using SAS and R, resulting in a 25% reduction in patient readmissions.",
+        "Collaborated with cross-functional teams to integrate FHIR data feeds into existing EHR systems, improving data accuracy by 30%",
+        "Built and maintained complex SQL queries to extract insights from large datasets, reducing query execution time by 50%",
+        "Developed interactive dashboards using Tableau to visualize patient outcomes, resulting in a 20% increase in clinical decision-making speed.",
+        "Worked closely with stakeholders to identify key performance indicators (KPIs) and developed data visualizations to track progress against those KPIs.",
+        "Utilized Python and PySpark to build scalable data pipelines for large-scale data processing and analysis.",
+        "Presented findings and recommendations to senior leadership, influencing strategic decisions and resource allocation."
+      ]
+    },
+    {
+      "title": "Analytics Analyst",
+      "company": "UnitedHealth Group",
+      "duration": "2018-2020",
+      "details": [
+        "Built and maintained patient treatment outcome models using R and Python, resulting in a 15% improvement in clinical outcomes.",
+        "Assisted in the development of data visualizations for healthcare provider performance metrics, improving visibility by 25%",
+        "Worked with IT teams to integrate HL7 data feeds into existing EHR systems, streamlining data exchange and reducing errors by 10%",
+        "Collaborated with data scientists to design and implement A/B testing frameworks for clinical trials.",
+        "Utilized SQL and Excel to extract insights from large datasets, identifying trends and patterns that informed business decisions."
+      ]
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Epic Systems",
+      "duration": "Summer 2019",
+      "details": [
+        "Assisted in the development of data visualizations for healthcare provider performance metrics, improving visibility by 10%",
+        "Worked with senior analysts to design and implement A/B testing frameworks for clinical trials.",
+        "Utilized Excel and SQL to extract insights from large datasets, identifying trends and patterns that informed business decisions."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Health Informatics",
+    "institution": "University of Illinois at Chicago",
+    "year": "2018"
+  },
+  "skills": ["SAS", "R", "Python", "PySpark", "Tableau", "SQL", "Excel", "FHIR/HL7", "EHR systems"],
+  "certifications": []
+}
+```
+
+Note: The above output is in JSON format, with the required keys and sections.
+

@@ -1,0 +1,54 @@
+Here is a highly realistic and original resume for a mid-level candidate in computer vision:
+
+```
+{
+  "name": "Raghav Narayan",
+  "email": "ragnarayan93@gmail.com",
+  "phone": "9876543210",
+  "linkedin": "in/ragnarayan93",
+  "summary": "Experienced Computer Vision Engineer with expertise in real-time object detection, CNNs, and OpenCV. Proficient in building end-to-end system for image classification and segmentation. Proven track record of delivering high-quality projects on time.",
+  "experience": [
+    {
+      "title": "Senior Computer Vision Engineer",
+      "company": "EyeQ Technologies Pvt Ltd",
+      "duration": "2 years, 6 months (Apr 2019 - Oct 2021)",
+      "details": [
+        "Designed and developed a real-time object detection system using YOLOv8 for autonomous vehicle applications.",
+        "Built and deployed a cloud-based image classification pipeline using OpenCV and TensorFlow, achieving an accuracy of 92% on a dataset of 10,000 images.",
+        "Collaborated with cross-functional teams to integrate computer vision models into the company's product suite, resulting in a 25% increase in customer satisfaction.",
+        "Conducted experiments and analyzed results to optimize model performance, reducing inference time by 30% without compromising accuracy.",
+        "Mentored junior engineers on best practices for building and deploying machine learning models, improving overall team efficiency by 15%."
+      ]
+    },
+    {
+      "title": "Computer Vision Engineer",
+      "company": "Invisage AI Pvt Ltd",
+      "duration": "1 year, 3 months (Oct 2018 - Jan 2020)",
+      "details": [
+        "Developed a real-time facial recognition system for access control applications using OpenCV and deep learning algorithms.",
+        "Built a computer vision pipeline for detecting and tracking objects in surveillance footage using OpenCV and Python.",
+        "Worked with the data science team to integrate image classification models into the company's product, improving accuracy by 10%."
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Indian Institute of Technology Delhi (IIT-Delhi)",
+      "duration": "6 months (Jul - Dec 2017)",
+      "details": [
+        "Assisted in developing a deep learning-based approach for image segmentation using CNNs and OpenCV.",
+        "Conducted experiments to optimize model performance on various datasets, achieving an accuracy of 85%."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Technology (M.Tech) in Computer Science",
+    "institution": "Indian Institute of Technology Delhi (IIT-Delhi)",
+    "year": "2017-2019"
+  },
+  "skills": ["OpenCV", "Python", "TensorFlow", "YOLOv8", "CNNs"],
+  "certifications": []
+}
+```
+
+Note: Please note that the information provided is fictional, and this resume is meant to be a sample.
+

@@ -1,0 +1,56 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of NLP:
+
+```
+{
+  "name": "Rahul Agarwal",
+  "email": "ragarwal@aihub.io",
+  "phone": "+91-1234567890",
+  "linkedin": "https://www.linkedin.com/in/rahualagarwal/",
+  "summary": "Results-driven NLP expert with 3+ years of experience in developing and deploying AI-powered solutions. Proven track record of improving text classification accuracy by 25% through innovative approach using SpaCy and BERT-based models.",
+  "experience": [
+    {
+      "title": "Senior NLP Engineer",
+      "company": "Cognizant Technologies",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and implemented a sentiment analysis model for customer feedback using Hugging Face Transformers, achieving an F1-score of 92%.",
+        "Developed a topic modeling framework using Latent Dirichlet Allocation (LDA) to analyze large-scale text datasets, resulting in improved topic identification accuracy by 15%",
+        "Collaborated with cross-functional teams to integrate NLP models into a conversational AI platform, increasing user engagement by 30%.",
+        "Built and deployed multiple NER models using SpaCy for named entity recognition, achieving an F1-score of 85% on the ACE 2005 dataset.",
+        "Conducted extensive testing and validation of NLP models to ensure accuracy and reliability in production environments.",
+        "Worked closely with data scientists to integrate NLP models into machine learning pipelines, improving overall system performance by 20%."
+      ]
+    },
+    {
+      "title": "NLP Engineer",
+      "company": "AI Research Lab (Startup)",
+      "duration": "2018-2020",
+      "details": [
+        "Developed a text classification model using BERT-based fine-tuning for classifying customer reviews, achieving an accuracy of 95%",
+        "Built and deployed a topic modeling framework using Latent Semantic Analysis (LSA) to analyze large-scale text datasets.",
+        "Collaborated with researchers to develop novel NLP models and integrate them into AI-powered systems."
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Indian Institute of Technology (IIT)",
+      "duration": "2017-2018",
+      "details": [
+        "Assisted in the development of a sentiment analysis model using Support Vector Machines (SVMs) for analyzing social media data."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "Indian Institute of Technology (IIT)",
+    "year": "2016-2018"
+  },
+  "skills": [
+    "SpaCy, Hugging Face Transformers, BERT-based models, NER, Text Classification, Sentiment Analysis, Topic Modeling"
+  ],
+  "certifications": []
+}
+```
+
+Please note that this is a highly realistic and original resume, but it's not real. All the information provided is fictional and for demonstration purposes only.
+

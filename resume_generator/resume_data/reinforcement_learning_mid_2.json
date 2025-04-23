@@ -1,0 +1,54 @@
+Here is a highly realistic and original resume for a mid candidate in the field of reinforcement learning:
+
+```
+{
+  "name": "Rahul Kumar",
+  "email": "rahulkan@reinforcementlearning.com",
+  "phone": "+91 1234567890",
+  "linkedin": "https://www.linkedin.com/in/rahulkumarrl/",
+  "summary": "Highly motivated and detail-oriented reinforcement learning expert with 3+ years of hands-on experience in building end-to-end systems. Proficient in Q-learning, policy gradients, multi-armed bandits, and reward modeling using OpenAI Gym environments. Strong understanding of deep learning concepts and ability to work effectively in fast-paced team environments.",
+  "experience": [
+    {
+      "title": "Senior Reinforcement Learning Engineer",
+      "company": "Cognizant Technology Solutions",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and developed a Q-learning-based system for predicting customer churn using OpenAI Gym's CartPole environment, resulting in 25% reduction in customer attrition rate.",
+        "Collaborated with cross-functional teams to integrate reinforcement learning models with existing CRM systems, improving sales forecasting accuracy by 15%.",
+        "Implemented policy gradients using TensorFlow and Keras to optimize marketing campaigns for a leading e-commerce company, yielding a 20% increase in conversion rates."
+      ]
+    },
+    {
+      "title": "Reinforcement Learning Engineer",
+      "company": "InMobi Technologies",
+      "duration": "2018-2020",
+      "details": [
+        "Built and deployed a multi-armed bandit-based system for optimizing ad serving decisions using OpenAI Gym's MountainCar environment, resulting in 10% increase in ad revenue."
+        "Worked with data scientists to develop reward models for predicting user engagement in mobile games, achieving an accuracy of 85%."
+        "Collaborated with the infrastructure team to integrate reinforcement learning models with Apache Spark and Hadoop clusters for real-time processing."
+      ]
+    },
+    {
+      "title": "Research Intern",
+      "company": "University of California, Berkeley",
+      "duration": "Summer 2017",
+      "details": [
+        "Conducted research on applying policy gradients to optimize traffic light control systems, presenting findings at the International Conference on Robotics and Automation."
+        "Assisted in developing a Q-learning-based system for predicting stock market trends using OpenAI Gym's Trading environment."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Artificial Intelligence",
+    "institution": "University of Edinburgh",
+    "year": "2018-2020"
+  },
+  "skills": [
+    "Python", "TensorFlow", "Keras", "OpenAI Gym", "Q-learning", "Policy Gradients", "Multi-Armed Bandits", "Reward Modeling"
+  ],
+  "certifications": ["Google Cloud Certified - Professional Machine Learning Engineer"]
+}
+```
+
+Note that this is just a sample, and you should tailor your resume to your specific experiences and qualifications.
+

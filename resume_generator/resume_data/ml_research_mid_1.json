@@ -1,0 +1,55 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of ML research:
+
+```
+{
+  "name": "Rohan Kumar",
+  "email": "rohan.kumar@email.com",
+  "phone": "(123) 456-7890",
+  "linkedin": "https://www.linkedin.com/in/rohan-kumar/",
+  "summary": "Results-driven Machine Learning Researcher with 3+ years of experience in developing and deploying predictive models. Skilled in experimental design, data analysis, and computational modeling. Proficient in Python, TensorFlow, and PyTorch.",
+  "experience": [
+    {
+      "title": "Research Engineer",
+      "company": "Microsoft Research",
+      "duration": "2020-2022",
+      "details": [
+        "Conducted research on computer vision and natural language processing to improve AI-driven decision-making systems",
+        "Designed and implemented several neural network architectures using TensorFlow and PyTorch, resulting in a 20% increase in model accuracy",
+        "Collaborated with cross-functional teams to integrate ML models into product development pipelines",
+        "Published two research papers on arXiv and presented at the International Conference on Machine Learning (ICML)",
+        "Developed and maintained a suite of scripts for data preprocessing, feature engineering, and model evaluation using Python and scikit-learn",
+        "Participated in peer review for top-tier ML conferences and journals, including NeurIPS and JMLR"
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Google Research",
+      "duration": "2018-2020",
+      "details": [
+        "Designed and implemented a deep learning-based recommender system for Google Play Store, achieving a 15% increase in user engagement",
+        "Conducted A/B testing and experimentation to optimize model performance and improve user experience",
+        "Collaborated with data scientists to integrate ML models into production pipelines using TensorFlow and Cloud AI Platform"
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Stanford University",
+      "duration": "2016-2018",
+      "details": [
+        "Assisted in the development of a reinforcement learning-based control system for autonomous vehicles",
+        "Conducted data analysis and visualization using Python, NumPy, and Matplotlib"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science (MS) in Computer Science",
+    "institution": "Stanford University",
+    "year": "2018"
+  },
+  "skills": ["Python", "TensorFlow", "PyTorch", "scikit-learn", "Keras", "OpenCV"],
+  "certifications": []
+}
+```
+
+Please note that this is a fictional candidate, and the information provided should not be used in any actual applications.
+

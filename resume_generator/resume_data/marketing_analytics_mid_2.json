@@ -1,0 +1,45 @@
+Here is a highly realistic and original resume for a mid candidate in the field of marketing analytics:
+
+```
+{
+  "name": "Kavita Patel",
+  "email": "kavitap@analyticon.com",
+  "phone": "+1 (555) 123-4567",
+  "linkedin": "www.linkedin.com/in/kavitapatel",
+  "summary": "Results-driven Marketing Analytics professional with a proven track record of developing and executing data-driven marketing strategies. Skilled in campaign ROI analysis, user segmentation, attribution modeling, churn prediction, and marketing funnel optimization.",
+  "experience": [
+    {
+      "title": "Senior Marketing Analyst",
+      "company": "Acme Corporation",
+      "duration": "2 years 6 months (Jan 2020 - Jul 2022)",
+      "details": [
+        "Analyzed campaign ROI using Google Analytics and Excel, resulting in a 25% increase in conversions for the Q1 marketing campaigns.",
+        "Developed and implemented user segmentation models using R and Python, increasing customer engagement by 15% across all channels.",
+        "Built and maintained attribution models using Mixpanel and Python, enabling data-driven decision making for marketing initiatives.",
+        "Utilized machine learning algorithms to predict churn using scikit-learn and TensorFlow, reducing customer attrition rates by 12%."
+      ]
+    },
+    {
+      "title": "Marketing Analyst",
+      "company": "Brightstar Inc.",
+      "duration": "1 year 3 months (Aug 2018 - Dec 2019)",
+      "details": [
+        "Optimized marketing funnels using Google Tag Manager and Excel, resulting in a 20% increase in lead generation for the B2B marketing campaigns.",
+        "Analyzed customer behavior using Mixpanel and Python, identifying key segments for targeted marketing initiatives."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Marketing Analytics",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2018"
+  },
+  "skills": [
+    "Google Analytics", "R", "Python", "Mixpanel", "TensorFlow", "scikit-learn", "Excel", "Google Tag Manager"
+  ],
+  "certifications": []
+}
+```
+
+Please note that this is just a sample resume and you should customize it according to your own experiences, skills, and achievements.
+

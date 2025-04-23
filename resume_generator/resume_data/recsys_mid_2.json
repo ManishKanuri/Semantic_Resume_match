@@ -1,0 +1,59 @@
+Here is a highly realistic and original resume for a mid candidate in the field of recsys:
+
+```
+{
+  "name": "Aarav Jain",
+  "email": "aaru.jain@email.com",
+  "phone": "+91 9876543210",
+  "linkedin": "https://www.linkedin.com/in/aaravjain/",
+  "summary": "Results-driven RecSys expert with 3+ years of experience in developing scalable and accurate recommendation engines using collaborative filtering, matrix factorization, and ranking models. Proficient in PyTorch and TensorFlow, with a strong background in computer science and mathematics.",
+  "experience": [
+    {
+      "title": "Senior Software Engineer, Recommendation Systems",
+      "company": "Eureka Insights",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and implemented a real-time recommendation engine using collaborative filtering and matrix factorization techniques, resulting in 30% increase in user engagement.",
+        "Developed and integrated a ranking model using PyTorch and TensorFlow, achieving an average precision of 85%",
+        "Worked closely with the data science team to optimize the engine for cold start users, improving new user recommendations by 25%",
+        "Collaborated with the infrastructure team to scale the recommendation engine to handle high traffic volumes, ensuring a minimum 99.9% uptime.",
+        "Conducted A/B testing and experimentation using Apache Spark and Databricks, resulting in a 15% increase in conversion rates.",
+        "Mentored junior engineers on best practices for recommender systems development, contributing to the growth of the team's technical expertise.",
+        "Participated in code reviews, ensuring high-quality code and adherence to company coding standards."
+      ]
+    },
+    {
+      "title": "Software Engineer, RecSys Development",
+      "company": "RecoMind Technologies",
+      "duration": "2018-2020",
+      "details": [
+        "Developed a matrix factorization-based recommendation engine using TensorFlow, achieving an average precision of 80%",
+        "Implemented a collaborative filtering algorithm using PyTorch, resulting in a 20% increase in user engagement.",
+        "Worked with the data science team to integrate additional features and metadata into the recommendation engine, improving personalized recommendations by 15%",
+        "Collaborated with the QA team to ensure high-quality testing of the recommendation engine, identifying and resolving critical issues promptly."
+      ]
+    },
+    {
+      "title": "Research Intern, Recommender Systems",
+      "company": "Indian Institute of Technology (IIT) Delhi",
+      "duration": "Summer 2017",
+      "details": [
+        "Conducted research on hybrid recommendation systems combining collaborative filtering and content-based filtering techniques.",
+        "Developed a proof-of-concept implementation using TensorFlow, demonstrating the potential for significant improvements in recommendation accuracy."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology (B.Tech) in Computer Science and Engineering",
+    "institution": "National Institute of Technology (NIT), Delhi",
+    "year": "2015-2019"
+  },
+  "skills": [
+    "PyTorch, TensorFlow, Apache Spark, Databricks, Collaborative Filtering, Matrix Factorization, Ranking Models, Python, SQL, Linux"
+  ],
+  "certifications": ["Google Cloud Certified - Professional Data Engineer"]
+}
+```
+
+Please note that this is a fictional candidate and the experience described is not real. This resume is intended to serve as an example of what a mid-level candidate in the field of recsys might look like.
+

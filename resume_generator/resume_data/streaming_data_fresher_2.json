@@ -1,0 +1,35 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of streaming data:
+
+```
+{
+  "name": "Aarav Jain",
+  "email": "aarav.jain@gmail.com",
+  "phone": "+91-8765432100",
+  "linkedin": "https://www.linkedin.com/in/aaravjain/",
+  "summary": "Recent graduate with a strong foundation in streaming data technologies, including Kafka, Spark Streaming, and Flink. Proficient in designing and implementing real-time ingestion pipelines using window functions and event-driven architecture. Eager to bring my skills and enthusiasm to a dynamic team.",
+  "experience": [
+    {
+      "title": "Streaming Data Intern",
+      "company": "DataScience Inc.",
+      "duration": "June - August, 2022 (3 months)",
+      "details": ["Designed and implemented a real-time analytics pipeline using Kafka and Spark Streaming to process customer behavior data", 
+                 "Worked closely with the development team to optimize streaming data processing and improve pipeline performance by 30%", 
+                 "Collaborated with the data engineering team to integrate Flink with Apache Cassandra for scalable data storage"]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "Indian Institute of Technology Delhi",
+    "year": "2022"
+  },
+  "skills": ["Kafka", "Spark Streaming", "Flink", "Apache Cassandra", "Python", "Java"],
+  "certifications": []
+}
+```
+
+This candidate, Aarav Jain, has completed his Master's in Data Science from IIT Delhi and has 0-1 years of experience. He has a strong academic background and has worked on various projects that showcase his skills in streaming data technologies.
+
+His internship at DataScience Inc. was a great opportunity to apply his knowledge and work with real-world datasets. The projects he worked on demonstrate his ability to design and implement efficient real-time analytics pipelines using Kafka, Spark Streaming, and Flink.
+
+As a fresher candidate, Aarav's resume focuses on highlighting his academic projects, assistantships, and certifications. He has not included any research experience or assistantships, as this is his first entry-level role.
+

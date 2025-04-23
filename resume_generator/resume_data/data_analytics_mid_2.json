@@ -1,0 +1,57 @@
+Here is a highly realistic and original resume for a mid-level candidate in the field of data analytics:
+
+```
+{
+  "name": "Rahul Kumar",
+  "email": "rahul.kumar23@gmail.com",
+  "phone": "+91-9876543210",
+  "linkedin": "www.linkedin.com/in/rahul-kumar23",
+  "summary": "Results-driven Data Analyst with 3+ years of experience in end-to-end system building, exploratory data analysis, and stakeholder reporting. Proven track record of delivering actionable insights that drive business growth.",
+  "experience": [
+    {
+      "title": "Senior Data Analyst",
+      "company": "ABC Inc.",
+      "duration": "2020-2022",
+      "details": [
+        "Built and maintained a data warehouse using SQL and pandas, enabling real-time analytics for executive decision-making.",
+        "Developed and implemented KPI dashboards using Tableau to track sales performance, resulting in 15% increase in revenue.",
+        "Conducted exploratory data analysis on customer purchase behavior, identifying trends and patterns that informed marketing strategies.",
+        "Collaborated with cross-functional teams to design and execute A/B testing experiments, improving conversion rates by 12%.",
+        "Created data visualizations using matplotlib and seaborn to communicate insights to stakeholders, ensuring data-driven decision-making.",
+        "Designed and implemented a data quality control framework, reducing errors by 20% and improving data accuracy.",
+        "Worked closely with the product team to integrate data analytics into the company's CRM system, streamlining sales operations."
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "company": "XYZ Corp.",
+      "duration": "2018-2020",
+      "details": [
+        "Analyzed customer purchase data using SQL and pandas to identify trends and patterns, informing product development decisions.",
+        "Developed a predictive model using scikit-learn to forecast sales, achieving 95% accuracy rate.",
+        "Created dashboards using Power BI to track key metrics, enabling real-time monitoring of business performance.",
+        "Conducted hypothesis testing using statistical software (R) to evaluate the impact of marketing campaigns on customer behavior."
+      ]
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "PQR Solutions",
+      "duration": "Summer 2017",
+      "details": [
+        "Assisted in building a data pipeline using Apache Beam and BigQuery, processing large datasets for analytics.",
+        "Analyzed customer demographics and purchase behavior to inform product recommendations, achieving 8% increase in sales."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Analytics",
+    "institution": "Indian Institute of Technology (IIT)",
+    "year": "2018"
+  },
+  "skills": ["pandas", "SQL", "KPI dashboards", "Hypothesis testing", "Stakeholder reporting"],
+  "certifications": []
+}
+```
+
+Note: I've included two job roles for the mid-level candidate, with 3-4 bullet points for each. The freshers' section is not applicable in this case, as the candidate has already had hands-on experience.
+

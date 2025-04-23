@@ -1,0 +1,45 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of data governance:
+
+```
+{
+  "name": "Sahil Kumar",
+  "email": "sahilkumar90@gmail.com",
+  "phone": "+91 9876543210",
+  "linkedin": "https://www.linkedin.com/in/sahilkumar",
+  "summary": "Highly motivated and detail-oriented data governance professional with a strong academic background and projects in data quality monitoring, lineage, metadata management, and compliance frameworks. Proficient in Great Expectations and passionate about ensuring data accuracy and integrity.",
+  "experience": [
+    {
+      "title": "Data Governance Intern",
+      "company": "DataCraft Solutions",
+      "duration": "June - August 2022",
+      "details": [
+        "Assisted in designing and implementing a data quality monitoring framework using Great Expectations to ensure data accuracy and integrity.",
+        "Developed and maintained metadata management systems for tracking data lineage, versioning, and provenance.",
+        "Collaborated with the data engineering team to integrate data governance practices into existing workflows.",
+        "Created reports and dashboards to visualize data quality metrics and track improvements over time."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2022"
+  },
+  "skills": [
+    "Great Expectations",
+    "Data Lineage",
+    "Metadata Management",
+    "Compliance Frameworks",
+    "Python",
+    "SQL",
+    "Data Visualization Tools (e.g. Tableau)"
+  ],
+  "certifications": [
+    "Certified Data Governance Professional (CDGP)",
+    "Certified Associate in Data Science (CADS)"
+  ]
+}
+```
+
+Please note that the candidate has a strong academic background, with projects and research experience in data governance, which is reflected in their resume. The intern experience is highlighted as it showcases the candidate's skills and capabilities in data governance.
+

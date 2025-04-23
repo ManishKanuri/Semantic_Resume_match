@@ -1,0 +1,34 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of ML Research:
+
+```
+{
+  "name": "Rahul Kumar",
+  "email": "rahulkumar@gmail.com",
+  "phone": "123-456-7890",
+  "linkedin": "https://www.linkedin.com/in/rahul-kumar/",
+  "summary": "Dedicated and detail-oriented Machine Learning Researcher with a strong academic background, seeking to apply my skills in a dynamic environment. Proficient in various ML frameworks and tools.",
+  "experience": [
+    {
+      "title": "Research Intern",
+      "company": "AI Research Institute (ARI)",
+      "duration": "June 2022 - August 2022 (3 months)",
+      "details": [
+        "Assisted in developing a novel Deep Learning-based approach for anomaly detection in IoT sensor data, using TensorFlow and PyTorch.",
+        "Conducted experiments on the proposed model, achieving an accuracy of 92% and reducing false positives by 75%",
+        "Collaborated with the research team to design and implement a benchmarking study to evaluate the performance of various ML algorithms for image classification.",
+        "Utilized Jupyter Notebooks for data visualization and exploration, and contributed to the development of a Python-based toolchain for automating data preprocessing."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master's in Computer Science",
+    "institution": "Indian Institute of Technology (IIT), Delhi",
+    "year": "2022"
+  },
+  "skills": ["Python", "TensorFlow", "PyTorch", "Jupyter Notebooks", "Matplotlib"],
+  "certifications": []
+}
+```
+
+Note: The email and phone number are fake, but you can replace them with the candidate's actual contact information.
+

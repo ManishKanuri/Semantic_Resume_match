@@ -1,0 +1,57 @@
+Here is a highly realistic and original resume for a senior candidate in the field of data governance:
+
+```
+{
+  "name": "Rohan Vyas",
+  "email": "rohan.vyas@govdata.io",
+  "phone": "+1 (555) 123-4567",
+  "linkedin": "https://www.linkedin.com/in/rohanvyas/",
+  "summary": "Results-driven data governance leader with 10+ years of experience in driving strategic delivery, architecture design, and mentorship. Proven track record of delivering high-quality data solutions that drive business value.",
+  "experience": [
+    {
+      "title": "Vice President, Data Governance",
+      "company": "GlobalBank Holdings",
+      "duration": "2018-Present",
+      "details": [
+        "Developed and executed a comprehensive data governance strategy to ensure compliance with regulatory requirements and improve business decision-making.",
+        "Designed and implemented a metadata management framework using Great Expectations, resulting in 30% reduction in data quality issues.",
+        "Led cross-functional teams of data engineers, scientists, and analysts to deliver high-quality data solutions that drove business value.",
+        "Collaborated with business stakeholders to develop data-driven products and services, including customer analytics and risk modeling.",
+        "Mentored junior data governance professionals, providing guidance on best practices in data quality monitoring and lineage analysis.",
+        "Developed and managed a budget of $500K+ for data governance initiatives, ensuring ROI through improved data quality and reduced compliance risks."
+      ]
+    },
+    {
+      "title": "Director, Data Architecture",
+      "company": "Financial Services Corporation",
+      "duration": "2015-2018",
+      "details": [
+        "Designed and implemented a comprehensive data architecture to support business analytics and reporting, including data warehousing and big data solutions.",
+        "Developed and managed a team of 10+ data engineers and architects, providing guidance on best practices in data governance and compliance.",
+        "Collaborated with business stakeholders to develop data-driven products and services, including customer segmentation and risk modeling.",
+        "Ensured compliance with regulatory requirements through regular audits and risk assessments, resulting in zero non-compliance issues."
+      ]
+    },
+    {
+      "title": "Manager, Data Quality",
+      "company": "Insurance Company of America",
+      "duration": "2010-2015",
+      "details": [
+        "Developed and implemented a data quality monitoring framework using Great Expectations, resulting in 25% reduction in data errors.",
+        "Led a team of 5+ data analysts to deliver high-quality data solutions that drove business value, including customer analytics and risk modeling.",
+        "Collaborated with business stakeholders to develop data-driven products and services, including policy administration and claims processing."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master's in Computer Science",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2005-2007"
+  },
+  "skills": ["Great Expectations", "Data Governance", "Metadata Management", "Compliance Frameworks", "Leadership", "Architecture Design"],
+  "certifications": ["Certified Data Governance Professional (CDGP)"]
+}
+```
+
+Please note that this is just a sample output, and actual resumes should be tailored to the specific candidate's experiences and skills.
+

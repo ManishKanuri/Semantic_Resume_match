@@ -1,0 +1,33 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of Recsys:
+
+```
+{
+  "name": "Rohan Kumar Jain",
+  "email": "rohan.kj@gmail.com",
+  "phone": "+91-9876543210",
+  "linkedin": "https://www.linkedin.com/in/rohankumarjain/",
+  "summary": "Recent computer science graduate with a strong academic background and hands-on experience in building recommendation systems using collaborative filtering, matrix factorization, and ranking models. Proficient in PyTorch and TensorFlow.",
+  "experience": [
+    {
+      "title": "Research Intern",
+      "company": "National University of Singapore (NUS)",
+      "duration": "June 2022 - August 2022",
+      "details": [
+        "Designed and implemented a matrix factorization-based recommendation system using PyTorch, achieving an improvement in accuracy by 12% compared to the baseline model.",
+        "Collaborated with a team of researchers to develop a real-time ranking model for personalized content recommendations, utilizing TensorFlow and scikit-learn libraries.",
+        "Conducted experiments on various datasets, including MovieLens and Netflix, to evaluate the performance of different recommendation algorithms."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2022"
+  },
+  "skills": ["Python", "PyTorch", "TensorFlow", "Collaborative Filtering", "Matrix Factorization", "Ranking Models"],
+  "certifications": []
+}
+```
+
+Note: The candidate has completed their undergraduate degree in Computer Science from IIT Delhi and worked as a research intern at NUS for 3 months during the summer break. They have hands-on experience with recommendation systems, PyTorch, and TensorFlow, and are eager to apply their skills in industry or academia.
+

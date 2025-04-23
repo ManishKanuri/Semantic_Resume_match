@@ -1,0 +1,42 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of data analytics:
+
+```json
+{
+  "name": "Aarav Kumar",
+  "email": "a.kumar@freshers.com",
+  "phone": "+91-9888787878",
+  "linkedin": "https://www.linkedin.com/in/aarav-kumar/",
+  "summary": "Highly motivated and detail-oriented data analytics professional with a strong academic background in statistics and computer science. Proficient in exploratory data analysis, pandas, SQL, KPI dashboards, hypothesis testing, and stakeholder reporting. Excited to bring my skills and enthusiasm to a dynamic team.",
+  "experience": [
+    {
+      "title": "Data Analyst Intern",
+      "company": "ABC Corporation",
+      "duration": "June - August 2022",
+      "details": [
+        "Conducted exploratory data analysis on customer purchase behavior using pandas and SQL, identifying key trends and insights.",
+        "Designed and developed a KPI dashboard using Tableau to track sales performance and provide actionable recommendations.",
+        "Collaborated with cross-functional teams to analyze customer feedback and develop targeted marketing campaigns.",
+        "Utilized hypothesis testing to evaluate the effectiveness of promotional offers and optimize future strategies.",
+        "Presented findings and recommendations to stakeholders, effectively communicating insights and results."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Analytics",
+    "institution": "University of Mumbai",
+    "year": "2022"
+  },
+  "skills": [
+    "Pandas",
+    "SQL",
+    "Tableau",
+    "KPI dashboards",
+    "Hypothesis testing",
+    "Stakeholder reporting"
+  ],
+  "certifications": []
+}
+```
+
+Note: As this is a fresher candidate, I've included only one internship experience. The Projects section can be added if the candidate has any notable academic projects or research work to showcase.
+

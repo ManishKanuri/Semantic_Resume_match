@@ -1,0 +1,56 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of ML Ops:
+
+```
+{
+  "name": "Rahul Jain",
+  "email": "rahul.jain@mlengineer.com",
+  "phone": "+1-555-1234",
+  "linkedin": "https://www.linkedin.com/in/rahul-jain-ml-engineer/",
+  "summary": "Experienced ML Ops engineer with a strong background in model deployment, versioning, and CI/CD for machine learning. Proven track record of delivering scalable and reliable production models using Docker, MLflow, and SageMaker.",
+  "experience": [
+    {
+      "title": "Senior ML Engineer",
+      "company": "Epsilon Technologies",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and implemented a CI/CD pipeline for deploying machine learning models using MLflow and Docker, resulting in 30% reduction in deployment time.",
+        "Collaborated with data scientists to develop and deploy multiple production models, including a recommendation engine that increased customer engagement by 25%",
+        "Worked closely with the infrastructure team to integrate SageMaker with AWS services, enabling seamless model deployment and monitoring.",
+        "Developed and maintained a suite of MLflow-based tools for versioning, tracking, and reproducibility of machine learning experiments.",
+        "Participated in code reviews and contributed to improving the overall quality and maintainability of the ML engineering codebase.",
+        "Worked with cross-functional teams to integrate machine learning models into various applications, including a customer-facing chatbot that improved response time by 40%",
+        "Conducted regular model monitoring and performance analysis using tools like Prometheus and Grafana, ensuring optimal model performance in production."
+      ]
+    },
+    {
+      "title": "ML Engineer",
+      "company": "Fidelity Investments",
+      "duration": "2018-2020",
+      "details": [
+        "Developed and deployed a production-ready recommendation engine using TensorFlow and SageMaker, resulting in a 15% increase in customer engagement.",
+        "Collaborated with data scientists to design and implement a CI/CD pipeline for machine learning experiments using MLflow and Docker.",
+        "Worked closely with the DevOps team to integrate SageMaker with AWS services, enabling seamless model deployment and monitoring."
+      ]
+    },
+    {
+      "title": "Machine Learning Engineer Intern",
+      "company": "American Express",
+      "duration": "Summer 2019",
+      "details": [
+        "Assisted in developing a predictive model for credit risk assessment using TensorFlow and scikit-learn, resulting in a 10% improvement in accuracy.",
+        "Worked with the data science team to design and implement a CI/CD pipeline for machine learning experiments using MLflow and Docker."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "Rutgers University",
+    "year": "2018"
+  },
+  "skills": ["MLflow", "Docker", "SageMaker", "TensorFlow", "scikit-learn", "Python"],
+  "certifications": []
+}
+```
+
+Note: I've kept the certifications section empty, as this candidate doesn't have any relevant certifications.
+

@@ -1,0 +1,61 @@
+Here is the JSON output for a mid-level candidate in product analytics:
+
+{
+  "name": "Aarav Jain",
+  "email": "a.jain@gmail.com",
+  "phone": "123-456-7890",
+  "linkedin": "www.linkedin.com/in/aaravjain",
+  "summary": "Results-driven Product Analyst with a passion for driving business growth through data-informed decisions. Skilled in user funnel analysis, A/B testing, retention metrics, and customer behavior modeling using Mixpanel and Amplitude.",
+  "experience": [
+    {
+      "title": "Senior Product Analyst",
+      "company": "Epic Games",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and executed A/B tests to optimize user engagement, resulting in a 25% increase in purchases and a 15% boost in customer retention.",
+        "Developed and maintained dashboards using Mixpanel to track key performance indicators (KPIs) such as DAU/MAU, conversion rates, and revenue growth.",
+        "Collaborated with cross-functional teams to identify areas for improvement and developed data-driven recommendations to inform product decisions.",
+        "Built and maintained complex customer behavior models using Amplitude to predict churn and identify high-value users.",
+        "Utilized SQL and Tableau to analyze large datasets and create data visualizations to communicate insights to stakeholders.",
+        "Worked closely with the growth team to develop targeted marketing campaigns based on user behavior and preferences.",
+        "Conducted exploratory data analysis to identify trends and opportunities for growth, and presented findings to senior leadership."
+      ]
+    },
+    {
+      "title": "Product Analytics Analyst",
+      "company": "Uber",
+      "duration": "2018-2020",
+      "details": [
+        "Analyzed user funnels to identify areas of improvement and developed data-driven recommendations for product feature development.",
+        "Created and maintained reports using Mixpanel to track key metrics such as user acquisition, retention, and revenue growth.",
+        "Collaborated with the growth team to develop targeted marketing campaigns based on user behavior and preferences.",
+        "Built and maintained customer behavior models using Amplitude to predict churn and identify high-value users."
+      ]
+    },
+    {
+      "title": "Junior Product Analyst",
+      "company": "Slack",
+      "duration": "2015-2018",
+      "details": [
+        "Assisted in the development of dashboards using Mixpanel to track key performance indicators (KPIs) such as user engagement and adoption rates.",
+        "Conducted exploratory data analysis to identify trends and opportunities for growth, and presented findings to stakeholders."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of California, Berkeley",
+    "year": "2015"
+  },
+  "skills": [
+    "Mixpanel",
+    "Amplitude",
+    "Tableau",
+    "SQL",
+    "Python",
+    "R",
+    "Data Visualization"
+  ],
+  "certifications": []
+}
+

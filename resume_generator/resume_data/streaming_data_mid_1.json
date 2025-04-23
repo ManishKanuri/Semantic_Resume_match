@@ -1,0 +1,57 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of streaming data:
+
+```json
+{
+  "name": "Shruti Desai",
+  "email": "shruti.desai@email.com",
+  "phone": "+91-1234567890",
+  "linkedin": "https://www.linkedin.com/in/shrutidesai/",
+  "summary": "Highly motivated and detail-oriented data streaming expert with 3+ years of experience in designing, developing, and deploying real-time data pipelines using Kafka, Spark Streaming, and Flink. Proven track record of delivering scalable and fault-tolerant systems that meet business requirements.",
+  "experience": [
+    {
+      "title": "Senior Data Engineer",
+      "company": "DataSpark Technologies",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and implemented a real-time data ingestion pipeline using Kafka, consuming over 10 million events per hour from various sources",
+        "Developed and deployed a Spark Streaming application to process event streams in near-real-time, achieving an average latency of under 1 second",
+        "Collaborated with the engineering team to implement window functions for aggregating events by time intervals and partitions",
+        "Worked closely with data scientists to integrate machine learning models into the pipeline, resulting in a 25% increase in predictive accuracy",
+        "Troubleshot and resolved performance issues related to event processing, reducing latency by 30%",
+        "Mentored junior engineers on best practices for working with streaming data, including data modeling and architecture",
+        "Co-authored an internal blog post on 'Designing Scalable Real-Time Data Pipelines' that received over 1,000 views"
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "EventStream Inc.",
+      "duration": "2018-2020",
+      "details": [
+        "Built a Flink-based real-time data pipeline to process IoT sensor data from over 50 sources, achieving an average throughput of 5 million events per hour",
+        "Worked with the data science team to integrate event-driven architecture into the pipeline, enabling near-real-time insights and decision-making",
+        "Developed and maintained a set of reusable utilities for working with Flink's window functions and aggregates"
+      ]
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Insight Analytics",
+      "duration": "Summer 2017",
+      "details": [
+        "Assisted in designing and developing a Spark Streaming application to process sensor data from industrial equipment, achieving an average latency of under 5 minutes"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "University of California, Berkeley",
+    "year": "2018-2020"
+  },
+  "skills": [
+    "Kafka", "Spark Streaming", "Flink", "Real-time data ingestion", "Window functions", "Event-driven architecture"
+  ],
+  "certifications": []
+}
+```
+
+Please note that this is a fictional resume and the details should not be used for actual job applications.
+

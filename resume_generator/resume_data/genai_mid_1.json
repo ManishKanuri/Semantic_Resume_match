@@ -1,0 +1,53 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of GenAI:
+
+```
+{
+  "name": "Aarav Jain",
+  "email": "a.arav.jain@outlook.com",
+  "phone": "+91 9000001234",
+  "linkedin": "https://www.linkedin.com/in/aaravjain/",
+  "summary": "Results-driven GenAI expert with 3 years of hands-on experience in designing and developing AI-powered solutions. Skilled in LLM fine-tuning, prompt engineering, LangChain, vector databases, transformers (GPT, LLaMA), and end-to-end system building.",
+  "experience": [
+    {
+      "title": "Senior GenAI Engineer",
+      "company": "CerebroGenomics Inc.",
+      "duration": "2022-2024",
+      "details": [
+        "Designed and developed a conversational AI platform using GPT-3 for healthcare chatbots, resulting in 25% increase in patient engagement.",
+        "Fine-tuned LLaMA-based models for sentiment analysis, achieving 92% accuracy on the F1-score benchmark.",
+        "Collaborated with a cross-functional team to integrate LangChain-powered language understanding into a customer service platform, increasing response rates by 30%.",
+        "Developed and maintained vector databases using D2-Vec for fast semantic search and retrieval in large-scale text datasets.",
+        "Contributed to the development of an AI-powered content recommendation engine using transformers, resulting in 15% increase in user engagement."
+      ]
+    },
+    {
+      "title": "GenAI Engineer",
+      "company": "MindSpark Technologies",
+      "duration": "2020-2022",
+      "details": [
+        "Built and deployed a prompt engineering framework for generating high-quality input prompts for AI models, achieving 95% accuracy on a test dataset.",
+        "Fine-tuned GPT-based models for text classification, achieving 88% F1-score on the IMDB dataset.",
+        "Collaborated with data scientists to integrate LangChain-powered language understanding into a recommendation engine, increasing conversion rates by 12%."
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "company": "National Institute of Technology (NIT) Delhi",
+      "duration": "2018-2020",
+      "details": [
+        "Assisted in developing an AI-powered chatbot for mental health support, using GPT-2 as the underlying language model."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Artificial Intelligence",
+    "institution": "National Institute of Technology (NIT) Delhi",
+    "year": "2020"
+  },
+  "skills": ["GPT", "LLaMA", "LangChain", "Vector Databases", "Transformers", "Prompt Engineering", "LLM Fine-tuning"],
+  "certifications": []
+}
+```
+
+Please note that the experience, education, and skills sections are fictional and used only for demonstration purposes.
+

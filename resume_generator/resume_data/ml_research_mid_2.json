@@ -1,0 +1,55 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of ML research:
+
+```
+{
+  "name": "Nikhil Kumar",
+  "email": "nikhil.kumar@mlresearcher.com",
+  "phone": "(123) 456-7890",
+  "linkedin": "https://www.linkedin.com/in/nikhilkumar/",
+  "summary": "Highly motivated and detail-oriented Machine Learning Researcher with 3 years of experience in developing and implementing machine learning models for various applications. Proficient in a range of programming languages, including Python, R, and Julia.",
+  "experience": [
+    {
+      "title": "Research Engineer",
+      "company": "DeepMind Technologies",
+      "duration": "2020-2022",
+      "details": [
+        "Developed and implemented various machine learning models using TensorFlow and PyTorch for natural language processing tasks, achieving a 15% improvement in model accuracy.",
+        "Collaborated with cross-functional teams to design and implement a novel recommender system using collaborative filtering and deep learning techniques, resulting in a 20% increase in user engagement.",
+        "Conducted experiments and analyzed results using tools like Jupyter Notebooks and Matplotlib, presenting findings at internal seminars and contributing to the development of research papers.",
+        "Worked with data scientists to preprocess and prepare large datasets for model training, utilizing libraries such as Pandas and NumPy.",
+        "Contributed to the development of a cloud-based platform for deploying machine learning models using AWS SageMaker and Docker.",
+        "Participated in code reviews and ensured adherence to coding standards and best practices."
+      ]
+    },
+    {
+      "title": "Machine Learning Research Assistant",
+      "company": "Stanford University - Computer Science Department",
+      "duration": "2018-2020",
+      "details": [
+        "Assisted in the development of a deep learning-based speech recognition system for automatic speech recognition, achieving a 10% improvement in word error rate.",
+        "Collaborated with PhD students and faculty members to design and implement various machine learning models for computer vision tasks, utilizing libraries such as OpenCV and scikit-learn.",
+        "Conducted literature reviews and summarized research findings on topics like transfer learning and reinforcement learning, contributing to the development of research papers."
+      ]
+    },
+    {
+      "title": "Research Intern",
+      "company": "Google Research - AI Lab",
+      "duration": "Summer 2019",
+      "details": [
+        "Assisted in the development of a novel machine learning-based approach for improving image segmentation using convolutional neural networks and transfer learning techniques.",
+        "Worked with researchers to design and implement various experiments, analyzing results using tools like TensorFlow and Matplotlib."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "Stanford University",
+    "year": "2020"
+  },
+  "skills": ["Python", "R", "Julia", "TensorFlow", "PyTorch", "AWS SageMaker", "Docker"],
+  "certifications": []
+}
+```
+
+Note: The experience and projects sections are designed to showcase the candidate's skills, achievements, and collaboration with others. The education section provides a brief overview of their educational background. The skills and certifications sections highlight the candidate's proficiency in various tools and technologies.
+

@@ -1,0 +1,47 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of marketing analytics:
+
+```
+{
+  "name": "Rahul Jain",
+  "email": "rahuljain@email.com",
+  "phone": "123-456-7890",
+  "linkedin": "https://www.linkedin.com/in/rahuljain/",
+  "summary": "Results-driven marketing analytics professional with a strong background in campaign ROI optimization, user segmentation, and attribution modeling. Proven track record of delivering insights that drive business growth and improve customer engagement.",
+  "experience": [
+    {
+      "title": "Marketing Analyst",
+      "company": "Acme Inc.",
+      "duration": "2 years 3 months (June 2019 - September 2021)",
+      "details": [
+        "Designed and implemented attribution models to measure campaign effectiveness, resulting in a 25% increase in ROI.",
+        "Conducted user segmentation analysis to identify high-value customer cohorts, leading to targeted marketing campaigns with a 30% conversion rate.",
+        "Built and maintained dashboards using Tableau to track key performance indicators (KPIs) and provide data-driven insights to stakeholders.",
+        "Collaborated with cross-functional teams to develop and execute marketing strategies, leveraging data analysis to inform decision-making.",
+        "Developed and maintained a comprehensive customer journey map to identify pain points and opportunities for improvement, leading to a 15% reduction in churn rate.",
+        "Used R and Python to perform exploratory data analysis and build predictive models for churn prediction and customer lifetime value (CLV) estimation.",
+        "Worked closely with the data science team to integrate marketing analytics with machine learning algorithms to inform strategic business decisions."
+      ]
+    },
+    {
+      "title": "Marketing Data Analyst",
+      "company": "BestBuy Inc.",
+      "duration": "1 year 6 months (December 2017 - June 2019)",
+      "details": [
+        "Built and maintained a data warehouse using Amazon Redshift to store and query marketing analytics data.",
+        "Developed SQL queries to extract insights from large datasets, providing actionable recommendations for marketing campaigns.",
+        "Created interactive dashboards using Power BI to visualize key metrics and trends, improving stakeholder understanding of market dynamics."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Marketing Analytics",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "year": "2017"
+  },
+  "skills": ["R", "Python", "Tableau", "Power BI", "Amazon Redshift", "SQL"],
+  "certifications": ["Google Analytics Certification"]
+}
+```
+
+Please note that this is a fictional resume, and all information provided is for demonstration purposes only.
+

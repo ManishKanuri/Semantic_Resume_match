@@ -1,0 +1,33 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of streaming data:
+
+```json
+{
+  "name": "Aarav Saxena",
+  "email": "aarsaxena@gmail.com",
+  "phone": "+91-9876543210",
+  "linkedin": "https://www.linkedin.com/in/aaravsaxena/",
+  "summary": "Highly motivated and detail-oriented fresher with a strong academic background in computer science, seeking to leverage my skills in streaming data technologies to contribute to innovative projects.",
+  "experience": [
+    {
+      "title": "Data Streaming Intern",
+      "company": "StreamGenie Inc.",
+      "duration": "June - August 2022 (3 months)",
+      "details": [
+        "Designed and implemented a real-time data ingestion pipeline using Apache Kafka, Spark Streaming, and Flink for processing high-velocity data streams.",
+        "Developed window functions to process and aggregate streaming data, achieving a 30% reduction in latency and improving overall system performance.",
+        "Collaborated with the development team to integrate the streaming pipeline with a cloud-based event-driven architecture, ensuring seamless data flow and scalability."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2022"
+  },
+  "skills": ["Apache Kafka", "Spark Streaming", "Flink", "Real-time Ingestion", "Window Functions", "Event-Driven Architecture"],
+  "certifications": ["Certified Data Scientist - Machine Learning and Analytics"]
+}
+```
+
+Please note that I've included only one main internship experience for the fresher candidate, along with some relevant details. The resume also highlights their academic background and certifications to demonstrate their strong foundation in computer science.
+

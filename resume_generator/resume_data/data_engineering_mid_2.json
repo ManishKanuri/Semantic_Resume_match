@@ -1,0 +1,59 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of data engineering:
+
+```
+{
+  "name": "Rahul Patel",
+  "email": "rahulp@dataengineer.com",
+  "phone": "415-123-4567",
+  "linkedin": "www.linkedin.com/in/rahul-patel-data-engineer",
+  "summary": "Highly motivated and detail-oriented Data Engineer with 3+ years of experience in designing, developing, and implementing large-scale data pipelines. Proficient in ETL development using Airflow, Apache Beam, and dbt. Strong understanding of distributed system optimization techniques. Proven track record of delivering high-quality solutions on time and exceeding expectations.",
+  "experience": [
+    {
+      "title": "Senior Data Engineer",
+      "company": "DataScience Inc.",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and developed end-to-end data pipelines using Airflow, Apache Beam, and dbt to ingest, transform, and load massive datasets (up to 10TB) from various sources (e.g., APIs, databases, flat files)",
+        "Optimized pipeline performance by up to 50% through efficient use of distributed systems (Hadoop, Spark), data partitioning, and caching",
+        "Collaborated with cross-functional teams (Data Scientists, Analysts, Product Managers) to understand business requirements and deliver custom solutions on time",
+        "Developed and maintained complex data models using Python, SQL, and Tableau for data visualization and storytelling",
+        " Implemented data quality controls and data validation scripts to ensure high-quality data delivery",
+        "Worked closely with DevOps team to deploy pipelines to production environments (AWS, GCP) using containers (Docker) and orchestration tools (Kubernetes)",
+        "Documented pipeline design decisions, performance metrics, and best practices in a centralized knowledge base for future reference",
+        " Mentored junior engineers on Airflow and Apache Beam best practices, ETL development, and distributed system optimization"
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "TechCorp Inc.",
+      "duration": "2018-2020",
+      "details": [
+        "Developed multiple data pipelines using dbt and Apache Beam to extract, transform, and load data from various sources (e.g., databases, APIs) for business intelligence reporting",
+        "Collaborated with Data Scientists to design and implement data models using Python, SQL, and Tableau for data visualization and storytelling",
+        "Worked closely with Analysts to develop data-driven insights and recommendations based on data analysis",
+        "Optimized pipeline performance by up to 30% through efficient use of distributed systems (Hadoop) and data partitioning",
+        "Implemented data quality controls and data validation scripts to ensure high-quality data delivery"
+      ]
+    },
+    {
+      "title": "Data Engineer Intern",
+      "company": "StartUp Inc.",
+      "duration": "Summer 2017",
+      "details": [
+        "Assisted in developing a scalable data pipeline using Apache Beam for processing large datasets (up to 1TB)",
+        "Worked closely with the Data Science team to design and implement data models using Python, SQL, and Tableau for data visualization"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Computer Science",
+    "institution": "Stanford University",
+    "year": "2018"
+  },
+  "skills": ["Airflow", "Apache Beam", "dbt", "Python", "SQL", "Tableau", "Distributed Systems", "ETL Development"],
+  "certifications": ["Google Cloud Certified - Professional Data Engineer"]
+}
+```
+
+Note: This is just a sample resume, and you should customize your own based on your unique experiences and qualifications.
+

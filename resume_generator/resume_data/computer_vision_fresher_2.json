@@ -1,0 +1,42 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of computer vision:
+
+```json
+{
+  "name": "Aarav Jain",
+  "email": "aaruja94@gmail.com",
+  "phone": "+91-9876543210",
+  "linkedin": "https://www.linkedin.com/in/aaravjain94/",
+  "summary": "Highly motivated and detail-oriented computer vision enthusiast with a strong academic background and experience in developing real-time object detection pipelines using OpenCV, CNNs, and YOLOv8. Proficient in image classification and segmentation tasks. Eager to apply skills and knowledge in a dynamic environment.",
+  "experience": [
+    {
+      "title": "Research Intern",
+      "company": "Centre for Artificial Intelligence and Robotics (CAIR), Indian Institute of Technology (IIT) Delhi",
+      "duration": "June 2022 - August 2022",
+      "details": [
+        "Assisted in developing a real-time object detection pipeline using OpenCV, YOLOv8, and Python",
+        "Collaborated with the research team to implement image segmentation algorithms for medical imaging applications",
+        "Analyzed and visualized data using Matplotlib and NumPy to improve model performance"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology (BTech) in Computer Science and Engineering",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2020-2024"
+  },
+  "skills": [
+    "OpenCV",
+    "YOLOv8",
+    "CNNs",
+    "Image Classification",
+    "Segmentation",
+    "Python",
+    "Matplotlib",
+    "NumPy"
+  ],
+  "certifications": []
+}
+```
+
+Note that this is just one possible representation of a resume, and you may need to tailor it to your specific experience and goals.
+

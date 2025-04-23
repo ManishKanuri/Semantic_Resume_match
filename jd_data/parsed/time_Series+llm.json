@@ -1,0 +1,7 @@
+{
+  "jd_text": "Job Title: Machine Learning Engineer \u2013 Time Series & Forecasting\nLocation: Pune or Remote\nExperience Required: 2\u20134 Years\nAbout the Role:\nWe seek a Machine Learning Engineer with strong time-series forecasting skills. You will design pipelines for predictive modeling, anomaly detection, and sensor data processing in a production-grade setup.\nResponsibilities:\nBuild time series models (ARIMA, Prophet, LSTM, XGBoost)\nAnalyze temporal data trends across domains like IoT, retail, or energy\nOptimize pipelines for batch and real-time inference\nCreate visualizations to communicate forecasts and uncertainty\nSkills Required:\nExperience with pandas, NumPy, Scikit-learn, statsmodels\nDeep understanding of time series concepts (stationarity, seasonality)\nProficiency in Python, SQL, and model serving techniques\nExposure to MLflow, DVC, or Airflow is a plus",
+  "min_experience": 2,
+  "max_experience": 4,
+  "education_required": null,
+  "jd_filename": "time_Series+llm.txt"
+}

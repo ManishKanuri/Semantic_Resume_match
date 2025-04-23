@@ -1,0 +1,42 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of NLP:
+
+```json
+{
+  "name": "Rahul Sharma",
+  "email": "rahulsharma123@gmail.com",
+  "phone": "9494949494",
+  "linkedin": "https://www.linkedin.com/in/rahulsharma123/",
+  "summary": "Recent computer science graduate with a strong foundation in natural language processing and machine learning. Proficient in developing and implementing NLP models using popular libraries like SpaCy, HuggingFace Transformers, and BERT-based models. Proven ability to work effectively in team environments and deliver high-quality results.",
+  "experience": [
+    {
+      "title": "Research Assistant",
+      "company": "Indian Institute of Technology (IIT) Delhi",
+      "duration": "June 2022 - August 2022",
+      "details": [
+        "Assisted a research team in developing a sentiment analysis model for social media text using BERT-based models and achieving an accuracy of 87%.",
+        "Collaborated with the team to design and implement a topic modeling approach for identifying key themes in customer reviews, resulting in a topic coherence score of 0.75.",
+        "Worked closely with the research lead to refine the NER model using SpaCy, leading to a 12% increase in entity recognition accuracy."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology (B.Tech) in Computer Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2020-2024"
+  },
+  "skills": [
+    "NLP", 
+    "SpaCy", 
+    "HuggingFace Transformers", 
+    "BERT-based models", 
+    "Text classification", 
+    "Sentiment analysis", 
+    "Topic modeling", 
+    "Named entity recognition (NER)"
+  ],
+  "certifications": []
+}
+```
+
+This resume showcases Rahul's research experience as a research assistant at IIT Delhi, highlighting his skills in NLP and machine learning. The summary section provides an overview of his background and expertise. As a fresher candidate, the focus is on showcasing academic projects, research work, and assistantships to demonstrate his potential and willingness to learn.
+

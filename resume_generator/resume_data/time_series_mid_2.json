@@ -1,0 +1,68 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of time series:
+
+```
+{
+  "name": "Rahul Kumar",
+  "email": "rahul.kumar25@gmail.com",
+  "phone": "123-456-7890",
+  "linkedin": "www.linkedin.com/in/rahulkumar/",
+  "summary": "Highly motivated and detail-oriented data scientist with 3+ years of experience in building end-to-end time series forecasting systems. Proficient in ARIMA, LSTM, Prophet, trend analysis, anomaly detection, and seasonal decomposition. Strong passion for analyzing complex datasets and developing predictive models that drive business insights.",
+  "experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "Quantum Analytics",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and implemented a real-time time series forecasting system using ARIMA and LSTM for a Fortune 500 company, resulting in a 15% reduction in inventory costs.",
+        "Collaborated with the data engineering team to develop a scalable architecture for processing large datasets, ensuring seamless integration with existing infrastructure.",
+        "Worked closely with business stakeholders to identify key performance indicators (KPIs) and developed predictive models that drove strategic decisions.",
+        "Conducted thorough data quality assessments and implemented necessary corrections, ensuring high-quality insights and reducing errors by 90%.",
+        "Developed a Python-based library for trend analysis and anomaly detection, utilizing libraries such as Pandas, NumPy, and scikit-learn.",
+        "Presented findings and recommendations to senior leadership and cross-functional teams, effectively communicating complex data insights."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "DataSpark",
+      "duration": "2018-2020",
+      "details": [
+        "Built a Prophet-based forecasting model for predicting customer churn, resulting in a 12% reduction in attrition rates.",
+        "Analyzed and visualized complex time series data using tools such as Tableau and Power BI, providing actionable insights to business stakeholders.",
+        "Collaborated with the data engineering team to develop a scalable architecture for processing large datasets, ensuring seamless integration with existing infrastructure.",
+        "Conducted exploratory data analysis on a large dataset, identifying trends and patterns that informed business decisions."
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Acme Inc.",
+      "duration": "2016-2018",
+      "details": [
+        "Analyzed and visualized time series data using Excel and Tableau to inform business decisions, resulting in a 5% increase in revenue."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of California, Berkeley",
+    "year": "2016-2018"
+  },
+  "skills": [
+    "ARIMA",
+    "LSTM",
+    "Prophet",
+    "Trend Analysis",
+    "Anomaly Detection",
+    "Seasonal Decomposition",
+    "Python",
+    "Pandas",
+    "NumPy",
+    "scikit-learn",
+    "Tableau",
+    "Power BI"
+  ],
+  "certifications": ["Google Analytics Certification"]
+}
+```
+
+Note: This is a highly realistic and original resume, but please keep in mind that it's just a sample. Remember to customize your own resume with your unique experiences and qualifications!
+

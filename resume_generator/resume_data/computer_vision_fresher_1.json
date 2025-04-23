@@ -1,0 +1,43 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of computer vision:
+
+```
+{
+  "name": "Ritwik Kumar",
+  "email": "ritwik.kumar@email.com",
+  "phone": "+91-9876543210",
+  "linkedin": "https://www.linkedin.com/in/ritwik-kumar/",
+  "summary": "Highly motivated and detail-oriented computer vision enthusiast with a strong academic background in machine learning. Proficient in developing real-time object detection, image classification, and segmentation pipelines using CNNs, OpenCV, and YOLOv8.",
+  "experience": [
+    {
+      "title": "Research Intern",
+      "company": "Indian Institute of Technology (IIT) Delhi",
+      "duration": "June 2022 - August 2022",
+      "details": [
+        "Collaborated with the Computer Vision Research Group to develop a real-time object detection system using YOLOv8 and OpenCV, achieving an accuracy of 95% on a custom dataset.",
+        "Assisted in designing and implementing image classification pipelines for classifying medical images using Convolutional Neural Networks (CNNs) and TensorFlow.",
+        "Worked with the team to optimize the object detection system for real-time applications, resulting in a 30% increase in processing speed."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "National Institute of Technology (NIT) Warangal",
+    "year": "2022"
+  },
+  "skills": [
+    "Computer Vision",
+    "Machine Learning",
+    "Deep Learning",
+    "Convolutional Neural Networks (CNNs)",
+    "OpenCV",
+    "YOLOv8",
+    "TensorFlow",
+    "Python",
+    "Java"
+  ],
+  "certifications": []
+}
+```
+
+Note: I've included only one work experience section as this is a fresher candidate's resume. The project section can be added if the candidate has multiple projects or notable academic projects to showcase.
+

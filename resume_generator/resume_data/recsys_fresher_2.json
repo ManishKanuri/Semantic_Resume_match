@@ -1,0 +1,42 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of Recsys:
+
+```json
+{
+  "name": "Rahul Kumar",
+  "email": "rahul.kumar@example.com",
+  "phone": "9876543210",
+  "linkedin": "www.linkedin.com/in/rahulkumar1234",
+  "summary": "Highly motivated and detail-oriented fresher with a strong academic background in Computer Science. Proficient in building recommendation systems using collaborative filtering, matrix factorization, ranking models, and PyTorch/TensorFlow. Eager to apply my skills and knowledge in a dynamic environment.",
+  "experience": [
+    {
+      "title": "Junior Research Assistant",
+      "company": "Indian Institute of Technology (IIT) Delhi",
+      "duration": "June 2022 - August 2022",
+      "details": [
+        "Assisted the research team in developing a collaborative filtering-based recommendation system for e-commerce products using PyTorch and TensorFlow.",
+        "Contributed to the design and implementation of matrix factorization algorithms for improving the accuracy of recommendations.",
+        "Worked closely with the team to analyze and visualize the performance metrics of the developed models.",
+        "Collaborated with senior researchers in brainstorming innovative ideas for future projects."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology (BTech) in Computer Science",
+    "institution": "Indian Institute of Technology (IIT) Delhi",
+    "year": "2022"
+  },
+  "skills": [
+    "PyTorch", 
+    "TensorFlow", 
+    "Collaborative Filtering", 
+    "Matrix Factorization", 
+    "Ranking Models", 
+    "Python", 
+    "Data Structures and Algorithms"
+  ],
+  "certifications": []
+}
+```
+
+This resume highlights the candidate's research experience as a junior research assistant at IIT Delhi, where they worked on developing recommendation systems using collaborative filtering and matrix factorization. The summary section emphasizes their strong academic background and enthusiasm for applying their skills in a dynamic environment.
+

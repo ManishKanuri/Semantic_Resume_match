@@ -1,0 +1,44 @@
+You are a professional resume writer. Generate a highly realistic and original resume for a {{level}} candidate in the field of {{domain}}.
+This candidate has skills and experience in:
+{{job_description}}
+
+Include these sections:
+1. Name (Indian name)
+2. Contact Info (realistic but fake)
+3. Summary
+4. Work Experience:
+   - For **senior and mid-level candidates**, include **2–3 job roles** (title, company, duration)
+   - For **freshers**, include **1 main internship or entry-level role**
+   - For freshers, if applicable, include **research experience** or **assistantships**
+   - For each job, write:
+     - **At least 7–8 bullet points for experienced candidates**
+     - **4–5 bullet points for freshers**
+   - Make bullet points specific with tools used, outcomes achieved, impact, team collaboration, and technologies
+5. Projects (for freshers/mid if needed)
+6. Education
+7. Skills & Tools
+8. Certifications (if applicable)
+
+Return the output in valid JSON with keys:
+{
+  "name": "...",
+  "email": "...",
+  "phone": "...",
+  "linkedin": "...",
+  "summary": "...",
+  "experience": [
+    {
+      "title": "...",
+      "company": "...",
+      "duration": "...",
+      "details": ["..."]
+    }
+  ],
+  "education": {
+    "degree": "...",
+    "institution": "...",
+    "year": "..."
+  },
+  "skills": ["...", "..."],
+  "certifications": ["..."]
+}

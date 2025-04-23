@@ -1,0 +1,52 @@
+Here is a highly realistic and original resume for a mid candidate in the field of GenAI:
+
+```json
+{
+  "name": "Aarav Jain",
+  "email": "aarav.jain@genaicorp.com",
+  "phone": "+91-9876543210",
+  "linkedin": "www.linkedin.com/in/aaravjain/",
+  "summary": "Results-driven GenAI professional with 3+ years of hands-on experience in developing and fine-tuning Large Language Models (LLMs). Proven track record of driving business value through prompt engineering, LangChain integration, and vector database management. Skilled in transformer architectures like GPT and LLaMA.",
+  "experience": [
+    {
+      "title": "Senior GenAI Engineer",
+      "company": "GenaiCorp",
+      "duration": "2022-Current",
+      "details": [
+        "Designed and implemented a custom prompt engineering framework for optimizing LLM outputs, resulting in a 25% increase in model accuracy.",
+        "Collaborated with cross-functional teams to integrate LangChain into multiple GenAI-based products, achieving a 30% reduction in development time.",
+        "Managed and optimized vector databases for large-scale GenAI applications, ensuring data consistency and improving query performance by 20%.",
+        "Developed and maintained GPT-3 and LLaMA-based models for various clients, resulting in a 40% increase in customer satisfaction.",
+        "Worked with the research team to integrate novel transformer architectures into existing product lines, enhancing overall GenAI capabilities."
+      ]
+    },
+    {
+      "title": "GenAI Engineer",
+      "company": "Cogito AI",
+      "duration": "2020-2022",
+      "details": [
+        "Fine-tuned LLMs for various NLP tasks, achieving an average increase of 15% in model performance.",
+        "Developed and implemented a custom LangChain-based framework for generating high-quality training data, resulting in a 10% reduction in model training time.",
+        "Worked with the data engineering team to design and implement vector databases for large-scale GenAI applications, ensuring data consistency and improving query performance."
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "company": "University of Technology",
+      "duration": "2018-2020",
+      "details": [
+        "Assisted in the development of a novel transformer architecture for GenAI applications, resulting in a 20% increase in model accuracy.",
+        "Conducted experiments and analyzed results to evaluate the effectiveness of various prompt engineering techniques for LLMs."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Artificial Intelligence",
+    "institution": "University of Technology",
+    "year": "2020"
+  },
+  "skills": ["GPT", "LLaMA", "LangChain", "Vector Databases", "Prompt Engineering", "LLM Fine-Tuning"],
+  "certifications": []
+}
+```
+

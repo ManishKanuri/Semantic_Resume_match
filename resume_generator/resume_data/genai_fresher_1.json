@@ -1,0 +1,33 @@
+Here is a highly realistic and original resume for a fresher candidate in the field of GenAI:
+
+```
+{
+  "name": "Aarav Jain",
+  "email": "aaravjain93@gmail.com",
+  "phone": "+91-9900012345",
+  "linkedin": "https://www.linkedin.com/in/aarav-jain-9b2a32123/",
+  "summary": "Dedicated and detail-oriented AI enthusiast with a strong academic background in Computer Science. Proficient in GenAI, LLM fine-tuning, prompt engineering, LangChain, vector databases, and transformers like GPT and LLaMA. Passionate about developing innovative AI solutions to drive business growth.",
+  "experience": [
+    {
+      "title": "Research Intern",
+      "company": "AI Research Lab, IIIT Delhi",
+      "duration": "June - August, 2022",
+      "details": [
+        "Conducted research on fine-tuning large language models (LLMs) for various NLP tasks using LangChain and vector databases.",
+        "Developed and implemented a prompt engineering framework to improve LLM performance on specific tasks.",
+        "Collaborated with the research team to design and evaluate experiments, analyzing results to draw meaningful insights."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology (B.Tech) in Computer Science",
+    "institution": "Delhi Technological University (DTU)",
+    "year": "2022"
+  },
+  "skills": ["GenAI", "LLM fine-tuning", "Prompt engineering", "LangChain", "Vector databases", "Transformers (GPT, LLaMA)"],
+  "certifications": []
+}
+```
+
+Note that this is a fictional candidate, and you should customize the resume to fit your specific needs. Remember to highlight your unique strengths, skills, and experiences, and tailor it to the job you're applying for!
+

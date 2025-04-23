@@ -1,0 +1,56 @@
+Here is a highly realistic and original resume for a mid-candidate in the field of analytics engineering:
+
+```
+{
+  "name": "Rohan Verma",
+  "email": "rohan.verma@gmail.com",
+  "phone": "9876543210",
+  "linkedin": "www.linkedin.com/in/rohanverma123",
+  "summary": "Highly motivated and detail-oriented Analytics Engineer with a strong background in data transformation pipelines, dimensional modeling, and SQL optimization. Proficient in leveraging dbt to drive business insights and make data-driven decisions.",
+  "experience": [
+    {
+      "title": "Senior Analytics Engineer",
+      "company": "Data Insights Inc.",
+      "duration": "2020-2022",
+      "details": [
+        "Designed and implemented complex data transformation pipelines using dbt, resulting in a 30% reduction in processing time and a 25% increase in data quality.",
+        "Collaborated with cross-functional teams to develop a dimensional model for a Fortune 500 client, resulting in a 50% improvement in query performance and a 20% reduction in data storage costs.",
+        "Optimized SQL queries using various techniques (e.g., index creation, query rewriting), achieving an average speedup of 75%",
+        "Worked with the data engineering team to develop a scalable architecture for a large-scale analytics platform, ensuring seamless integration with existing systems.",
+        "Created and maintained a comprehensive data dictionary, standardizing terminology and ensuring consistent data representation across the organization.",
+        "Developed and taught training sessions on dbt best practices and dimensional modeling techniques to junior engineers, resulting in a 25% increase in team productivity."
+      ]
+    },
+    {
+      "title": "Analytics Engineer",
+      "company": "Data Science Solutions Ltd.",
+      "duration": "2018-2020",
+      "details": [
+        "Developed a data transformation pipeline using dbt to integrate multiple datasets, resulting in a 40% increase in data freshness and a 20% reduction in data latency.",
+        "Collaborated with the business intelligence team to design and implement a dimensional model for a retail client, achieving a 25% improvement in query performance and a 15% reduction in data storage costs.",
+        "Optimized SQL queries using various techniques (e.g., query rewriting, indexing), achieving an average speedup of 60%",
+        "Worked with the data engineering team to develop a scalable architecture for a cloud-based analytics platform, ensuring seamless integration with existing systems."
+      ]
+    },
+    {
+      "title": "Junior Analytics Engineer",
+      "company": "Analytics Inc.",
+      "duration": "2016-2018",
+      "details": [
+        "Assisted in developing a data transformation pipeline using dbt to integrate multiple datasets, resulting in a 20% increase in data freshness and a 10% reduction in data latency.",
+        "Collaborated with the business intelligence team to design and implement a dimensional model for a healthcare client, achieving a 15% improvement in query performance and a 5% reduction in data storage costs."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Master of Science in Data Science",
+    "institution": "University of Technology and Management",
+    "year": "2016"
+  },
+  "skills": ["dbt", "dimensional modeling", "SQL optimization", "data transformation pipelines"],
+  "certifications": []
+}
+```
+
+Note that this is just an example, and you should adjust the details to fit your own experience and style. Also, make sure to proofread and edit your resume multiple times before sharing it with others!
+
